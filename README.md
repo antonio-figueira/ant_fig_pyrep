@@ -1,2 +1,2 @@
 # ant_fig_pyrep
-by António Figueira
+python scripts by António Figueira
