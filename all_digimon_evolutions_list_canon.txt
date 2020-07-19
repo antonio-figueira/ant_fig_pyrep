@@ -1,0 +1,1342 @@
+1	Aegiochusmon	-evolves to-	
+2	Aegiochusmon: Blue	-evolves to-	
+3	Aegiochusmon: Dark	-evolves to-	
+4	Aegiochusmon: Green	-evolves to-	
+5	Aegiochusmon: Holy	-evolves to-	Jupitermon
+6	Aegiomon	-evolves to-	Aegiochusmon, Aegiochusmon: Blue, Aegiochusmon: Dark, Aegiochusmon: Green, Aegiochusmon: Holy, Jupitermon
+7	Aegisdramon	-evolves to-	
+8	Aero V-dramon	-evolves to-	Ulforce V-dramon
+9	Agnimon	-evolves to-	Ancient Greymon, Aldamon, Vritramon
+10	Agumon	-evolves to-	Agumon -Yuki's Kizuna-, Agumon (X-Antibody), Centalmon, Greymon, Meramon, Metal Greymon, Metal Greymon (Virus), Omegamon, War Greymon
+11	Agumon (X-Antibody)	-evolves to-	Greymon (X-Antibody), Omekamon
+12	Agumon (2006 Anime Version)	-evolves to-	Agumon: Burst Mode, Geo Greymon, Greymon, Shine Greymon, Victory Greymon
+13	Agumon (Black)	-evolves to-	Agumon (Black) (X-Antibody), Black War Greymon, Dark Tyranomon, Greymon (Blue)
+14	Agumon (Black) (X-Antibody)	-evolves to-	
+15	Agumon (Black) (2006 Anime Version)	-evolves to-	
+16	Agumon -Yuki's Kizuna-	-evolves to-	
+17	Agumon: Burst Mode	-evolves to-	
+18	Agumon Hakase	-evolves to-	
+19	Aircraft Carrier Whamon	-evolves to-	
+20	Airdramon	-evolves to-	Chimairamon, Metal Greymon (Virus)
+21	Akatorimon	-evolves to-	
+22	Aldamon	-evolves to-	Kaiser Greymon, Susanoomon
+23	Algomon (Baby I)	-evolves to-	Algomon (Baby II)
+24	Algomon (Baby II)	-evolves to-	Algomon (Child)
+25	Algomon (Child)	-evolves to-	Algomon (Adult)
+26	Algomon (Adult)	-evolves to-	Algomon (Perfect)
+27	Algomon (Perfect)	-evolves to-	Algomon (Ultimate)
+28	Algomon (Ultimate)	-evolves to-	Zeed Millenniumon
+29	Allomon	-evolves to-	Allomon (X-Antibody)
+30	Allomon (X-Antibody)	-evolves to-	
+31	Alphamon	-evolves to-	Alphamon: Ouryuken
+32	Alphamon: Ouryuken	-evolves to-	
+33	Alraumon	-evolves to-	
+34	Amon	-evolves to-	
+35	Ancient Beatmon	-evolves to-	Susanoomon
+36	Ancient Garurumon	-evolves to-	
+37	Ancient Greymon	-evolves to-	
+38	Ancient Irismon	-evolves to-	Susanoomon
+39	Ancient Megatheriumon	-evolves to-	Susanoomon
+40	Ancient Mermaimon	-evolves to-	Susanoomon
+41	Ancient Sphinxmon	-evolves to-	Susanoomon
+42	Ancient Troiamon	-evolves to-	Susanoomon
+43	Ancient Volcamon	-evolves to-	Gattai Ancient Volcamon, Susanoomon
+44	Ancient Wisemon	-evolves to-	Susanoomon
+45	Andiramon	-evolves to-	Cherubimon (Vice)
+46	Andiramon (Deva)	-evolves to-	
+47	Andromon	-evolves to-	Hi Andromon, Mugendramon
+48	Angemon	-evolves to-	Holy Angemon, Seraphimon, Shakkoumon
+49	Angewomon	-evolves to-	Angewomon (X-Antibody), Holydramon, Lady Devimon, Mastemon, Ofanimon, Ofanimon: Falldown Mode
+50	Angewomon (X-Antibody)	-evolves to-	
+51	Ankylomon	-evolves to-	Shakkoumon
+52	Anomalocarimon	-evolves to-	Anomalocarimon (X-Antibody)
+53	Anomalocarimon (X-Antibody)	-evolves to-	
+54	Anubimon	-evolves to-	
+55	Apocalymon	-evolves to-	Mephismon
+56	Apollomon	-evolves to-	Apollomon Whispered, Grace Novamon, Grand Generamon
+57	Apollomon Darkness Mode	-evolves to-	
+58	Apollomon Whispered	-evolves to-	Apollomon Darkness Mode
+59	Aquilamon	-evolves to-	Garudamon, Silphymon
+60	Arbormon	-evolves to-	Ancient Troiamon, Petaldramon
+61	Archelomon	-evolves to-	
+62	Archnemon	-evolves to-	
+63	Arkadimon Baby	-evolves to-	Arkadimon Child
+64	Arkadimon Child	-evolves to-	Arkadimon Adult
+65	Arkadimon Adult	-evolves to-	Arkadimon Perfect
+66	Arkadimon Perfect	-evolves to-	Arkadimon Ultimate
+67	Arkadimon Ultimate	-evolves to-	Arkadimon Super Ultimate, Demon Super Ultimate
+68	Arkadimon Super Ultimate	-evolves to-	
+69	Armadimon	-evolves to-	Ankylomon, Chamelemon, Digmon, Pteranomon, Shakkoumon, Submarimon
+70	Armagemon	-evolves to-	
+71	Armamon	-evolves to-	Omega Armamon Burst Mode
+72	Arresterdramon	-evolves to-	Arresterdramon Superior Mode, Xros Up Arresterdramon (Metal Tyranomon), Xros Up Arresterdramon (Sagomon), Xros Up Arresterdramon (Dobermon), Xros Up Arresterdramon (Sparrowmon), Xros Up Arresterdramon (Blossomon), Xros Up Arresterdramon (Giga Breakdramon), Xros Up Arresterdramon (Orgemon), Xros Up Arresterdramon (Astamon)
+73	Arresterdramon: Superior Mode	-evolves to-	Arresterdramon: Superior Mode (Brave Snatcher)
+74	Arresterdramon: Superior Mode (Brave Snatcher)	-evolves to-	
+75	Assaultmon	-evolves to-	
+76	Astamon	-evolves to-	Belphemon Rage Mode, Quartzmon, Xros Up Arresterdramon (Astamon), Xros Up Astamon (Cerberumon), Xros Up Astamon (Triceramon)
+77	Asuramon	-evolves to-	
+78	Atamadekachimon	-evolves to-	
+79	Atlur Ballistamon	-evolves to-	Shoutmon EX6
+80	Atlur Kabuterimon (Blue)	-evolves to-	Herakle Kabuterimon
+81	Atlur Kabuterimon (Red)	-evolves to-	Herakle Kabuterimon
+82	Avenge Kidmon	-evolves to-	
+83	Baalmon	-evolves to-	Beelzebumon (2010 Anime Version)
+84	Babamon	-evolves to-	Rosemon
+85	Baboongamon	-evolves to-	
+86	Babydmon	-evolves to-	
+87	Bacchusmon	-evolves to-	
+88	Bacchusmon Crapulence Mode	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+89	Bagramon	-evolves to-	Dark Knightmon (Bagramon), Darkness Bagramon
+90	Bagramon Archangel Form	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+91	Baihumon	-evolves to-	Huanglongmon
+92	Bakemon	-evolves to-	Soulmon, Vamdemon
+93	Bacomon	-evolves to-	
+94	Bakumon	-evolves to-	
+95	Balli Bastemon	-evolves to-	
+96	Ballistamon	-evolves to-	Atlur Ballistamon, Ballistamon MC, Balli Bastemon, Ballistamon SR, Rampage Greymon, Shoutmon X2, Shoutmon X2 (Incomplete X4), Shoutmon X3, Shoutmon X4, Shoutmon X4B, Shoutmon X4K, Shoutmon X4S, Shoutmon X5, Shoutmon X5B, Shoutmon X6, Shoutmon X7, Sparrowmon AB, Xros Up Ballistamon (Revolmon)
+97	Ballistamon MC	-evolves to-	
+98	Ballistamon SR	-evolves to-	
+99	Bancho Golemon	-evolves to-	
+100	Bancho Leomon	-evolves to-	Bancho Leomon: Burst Mode, Chaosmon, Chaosmon: Valdur Arm, Ultimate Chaosmon
+101	Bancho Leomon: Burst Mode	-evolves to-	
+102	Bancho Lilimon	-evolves to-	
+103	Bancho Mamemon	-evolves to-	
+104	Bancho Stingmon	-evolves to-	
+105	Bao Hackmon	-evolves to-	Savior Hackmon
+106	Barbamon	-evolves to-	Barbamon (X-Antibody), Ogudomon, Omega Armamon Burst Mode
+107	Barbamon (X-Antibody)	-evolves to-	Ogudomon X-Antibody
+108	Baromon	-evolves to-	
+109	Bastemon	-evolves to-	Balli Bastemon, G-Cutemon
+110	Batterymon	-evolves to-	
+111	Battle Armament Trailmon	-evolves to-	
+112	Bearmon	-evolves to-	Dukemon, Gryzmon
+113	Beel Starmon	-evolves to-	Beel Starmon (X-Antibody)
+114	Beel Starmon (X-Antibody)	-evolves to-	
+115	Beelzebumon	-evolves to-	Beelzebumon Blast Mode, Beelzebumon (X-Antibody), Ogudomon, Shoutmon X5B
+116	Beelzebumon Blast Mode	-evolves to-	
+117	Beelzebumon (X-Antibody)	-evolves to-	Ogudomon X-Antibody
+118	Beelzebumon (2010 Anime Version)	-evolves to-	Beelzebumon + Revolmon, Beelzebumon + Starmons, Shoutmon X4B, Shoutmon X5B, Xros Up Mervamon (Beelzebumon)
+119	Beelzebumon + Revolmon	-evolves to-	
+120	Beelzebumon + Starmons	-evolves to-	
+121	Belial Vamdemon	-evolves to-	
+122	Belphemon Rage Mode	-evolves to-	Belphemon (X-Antibody), Belphemon: Sleep Mode, Ogudomon
+123	Belphemon Sleep Mode	-evolves to-	Belphemon: Rage Mode
+124	Belphemon (X-Antibody)	-evolves to-	Ogudomon X-Antibody
+125	Bemmon	-evolves to-	Snatchmon, Destromon
+126	Beowolfmon	-evolves to-	Magna Garurumon
+127	Beso Bombmon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+128	Betamon	-evolves to-	Betamon (X-Antibody), Seadramon
+129	Betamon (X-Antibody)	-evolves to-	
+130	Betsumon	-evolves to-	
+131	Big Mamemon	-evolves to-	
+132	Bio Coatlmon	-evolves to-	
+133	Bio Darkdramon	-evolves to-	
+134	Bio Lotusmon	-evolves to-	
+135	Bio Spinomon	-evolves to-	
+136	Bio Stegomon	-evolves to-	
+137	Bio Thunderbirmon	-evolves to-	
+138	Birdramon	-evolves to-	Garudamon, Garudamon (X-Antibody), Hououmon
+139	Bishop Chessmon (Black)	-evolves to-	
+140	Bishop Chessmon (White)	-evolves to-	
+141	Bitmon	-evolves to-	
+142	Black Galgomon	-evolves to-	
+143	Black Gaogamon	-evolves to-	Black Mach Gaogamon
+144	Black Growmon	-evolves to-	Black Megalo Growmon
+145	Black Guilmon	-evolves to-	Black Growmon
+146	Black King Numemon	-evolves to-	
+147	Black Mach Gaogamon	-evolves to-	
+148	Black Megalo Growmon	-evolves to-	
+149	Black Rapidmon	-evolves to-	
+150	Black Saint Galgomon	-evolves to-	
+151	Black Seraphimon	-evolves to-	Demon
+152	Black Seraphimon (DW3)	-evolves to-	
+153	Black Shoutmon X7	-evolves to-	
+154	Black Tailmon	-evolves to-	
+155	Black War Greymon	-evolves to-	Black War Greymon (X-Antibody), Omegamon Zwart
+156	Black War Greymon (X-Antibody)	-evolves to-	
+157	Blade Kuwagamon	-evolves to-	
+158	Blastmon	-evolves to-	Gattai Lilithmon, Majuu Lilithmon, Dark Knightmon (Blastmon)
+159	Blikmon	-evolves to-	
+160	Blimpmon	-evolves to-	
+161	Blitz Greymon	-evolves to-	Omegamon Alter-S
+162	Blitzmon	-evolves to-	Ancient Beatmon, Bolgmon, Rhino Kabuterimon
+163	Blizzarmon	-evolves to-	Daipenmon
+164	Blossomon	-evolves to-	
+165	Blucomon	-evolves to-	Paledramon
+166	Blue Meramon	-evolves to-	
+167	Boarmon	-evolves to-	
+168	Bokomon	-evolves to-	
+169	Bolgmon	-evolves to-	Rhino Kabuterimon
+170	Boltmon	-evolves to-	
+171	Bomber Nanimon	-evolves to-	
+172	Bombmon	-evolves to-	
+173	Bommon	-evolves to-	
+174	Boogeymon	-evolves to-	Phelesmon
+175	Botamon	-evolves to-	Airdramon, Koromon
+176	Brachimon	-evolves to-	Dorbickmon Darkness Mode (Dragon Army)
+177	Breakdramon	-evolves to-	Examon
+178	Bryweludramon	-evolves to-	Ragna Lordmon
+179	Bubbmon	-evolves to-	Mochimon
+180	Budmon	-evolves to-	Lalamon
+181	Bullmon	-evolves to-	Deadly Tuwarmon Hell Mode
+182	Bun	-evolves to-	
+183	Buraimon	-evolves to-	Butenmon
+184	Burgamon	-evolves to-	Burgamon Adult
+185	Burgamon Adult	-evolves to-	
+186	Burpmon	-evolves to-	
+187	Bushi Agumon	-evolves to-	
+188	Butenmon	-evolves to-	Chronomon Holy Mode
+189	Butterflamon	-evolves to-	
+190	Būmon	-evolves to-	
+191	Calamaramon	-evolves to-	
+192	Callismon	-evolves to-	
+193	Candmon	-evolves to-	Meramon, Reverse Weddinmon, Wizarmon, Xros Up Opossummon
+194	Cannonbeemon	-evolves to-	
+195	Cannonbeemon (Aircraft Carrier)	-evolves to-	
+196	Cannondramon	-evolves to-	
+197	Caprimon	-evolves to-	
+198	Captain Hookmon	-evolves to-	
+199	Cardmon C1	-evolves to-	
+200	Cardmon C2	-evolves to-	
+201	Cardmon R1	-evolves to-	
+202	Cardmon R2	-evolves to-	
+203	Cardmon S1	-evolves to-	
+204	Cardmon S2	-evolves to-	
+205	Cardmon U1	-evolves to-	
+206	Cardmon U2	-evolves to-	
+207	Catch Mamemon	-evolves to-	
+208	Caturamon	-evolves to-	
+209	Centalmon	-evolves to-	Gravimon Darkness Mode, Sagittarimon
+210	Cerberumon	-evolves to-	Anubimon, Cerberumon Jinrou Mode, Cerberumon (X-Antibody), Gravimon Darkness Mode, Xros Up Astamon
+211	Cerberumon (X-Antibody)	-evolves to-	
+212	Cerberumon Werewolf Mode	-evolves to-	Plutomon
+213	Ceresmon	-evolves to-	Ceresmon Medium
+214	Ceresmon Medium	-evolves to-	
+215	Chakkumon	-evolves to-	Ancient Megatheriumon, Blizzarmon, Daipenmon
+216	Chamelemon	-evolves to-	
+217	Chaos Dukemon	-evolves to-	Chaos Dukemon Core, Dukemon: Chaos Mode
+218	Chaos Dukemon Core	-evolves to-	
+219	Chaos Greymon	-evolves to-	Neo Crimson
+220	Chaos Grimmon	-evolves to-	Exo Grimmon
+221	Chaos Lord	-evolves to-	Neo Crimson
+222	Chaos Piemon	-evolves to-	Neo Crimson
+223	Chaos Seadramon	-evolves to-	Neo Crimson
+224	Chaosdramon	-evolves to-	Chaosdramon (X-Antibody), Neo Crimson
+225	Chaosdramon (X-Antibody)	-evolves to-	
+226	Chaosmon	-evolves to-	
+227	Chaosmon: Valdur Arm	-evolves to-	
+228	Chapmon	-evolves to-	
+229	Cheer Galmon	-evolves to-	
+230	Cherubimon (Vice)	-evolves to-	Cherubimon (Vice) (X-Antibody), Cherubimon (Virtue)
+231	Cherubimon (Vice) (X-Antibody)	-evolves to-	
+232	Cherubimon (Virtue)	-evolves to-	Cherubimon (Vice), Cherubimon (Virtue) (X-Antibody)
+233	Cherubimon (Virtue) (X-Antibody)	-evolves to-	
+234	Chibick Sword	-evolves to-	
+235	Chibi Kamemon	-evolves to-	Shoutmon X2 Plus M, G-Cutemon, Gawappamon, Golem Jiji Kamemon, Xros Up Shoutmon (Chibi Kamemon)
+236	Chibi Kiwimon	-evolves to-	
+237	Chibickmon	-evolves to-	Chibick Sword, Star Wheel, Pickmon
+238	Chibimon	-evolves to-	V-mon
+239	Chicchimon	-evolves to-	Hyokomon
+240	Chicomon	-evolves to-	Chibimon
+241	Chikurimon	-evolves to-	Mad Leomon: Armed Mode
+242	Chimairamon	-evolves to-	Millenniumon
+243	Cho·Hakkaimon	-evolves to-	
+244	Chocomon	-evolves to-	Lopmon
+245	Chokimon	-evolves to-	
+246	Choromon	-evolves to-	
+247	Chronomon Destroy Mode	-evolves to-	Chronomon Holy Mode
+248	Chronomon Holy Mode	-evolves to-	Chronomon Destroy Mode
+249	Chrysalimon	-evolves to-	Diablomon, Infermon
+250	Citramon	-evolves to-	
+251	Clavis Angemon	-evolves to-	
+252	Clear Agumon	-evolves to-	
+253	Clockmon	-evolves to-	
+254	Coatlmon	-evolves to-	
+255	Cockatrimon	-evolves to-	Megadramon
+256	Cocomon	-evolves to-	Chocomon
+257	Coelamon	-evolves to-	
+258	Commandramon	-evolves to-	Sealsdramon
+259	Copymon	-evolves to-	
+260	Coredramon (Blue)	-evolves to-	Wingdramon
+261	Coredramon (Green)	-evolves to-	Groundramon
+262	Coronamon	-evolves to-	Apollomon, Firamon
+263	Cotsucomon	-evolves to-	Kakkinmon
+264	Craniummon	-evolves to-	Craniummon (X-Antibody)
+265	Craniummon (X-Antibody)	-evolves to-	
+266	Crescemon	-evolves to-	Dianamon
+267	Cres Garurumon	-evolves to-	Omegamon Alter-S
+268	Crossmon	-evolves to-	Gravimon Darkness Mode
+269	Crys Paledramon	-evolves to-	Hexeblaumon
+270	Culumon	-evolves to-	
+271	Cupimon	-evolves to-	
+272	Cutemon	-evolves to-	G-Cutemon, Shou Cutemon
+273	Cyberdramon	-evolves to-	Cyberdramon (X-Antibody), Justimon, Zeed Millenniumon
+274	Cyberdramon (2010 Anime Version)	-evolves to-	Dracomon + Cyberdramon, Metal Greymon + Cyber Launcher
+275	Cyberdramon (X-Antibody)	-evolves to-	
+276	Cyclomon	-evolves to-	
+277	Dagomon	-evolves to-	
+278	Daipenmon	-evolves to-	Ice Devimon Daipenmon Enhancement Absorbent
+279	Damemon	-evolves to-	Tuwarmon
+280	Danmon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+281	Darcmon	-evolves to-	Hippogriffomon, Murmukusmon
+282	Dark Knightmon	-evolves to-	Dark Knightmon (Bagramon), Dark Knightmon (Duskmon), Dark Knightmon (X-Antibody), Darkness Bagramon, Muso Knightmon, Super Dark Knightmon
+283	Dark Knightmon (X-Antibody)	-evolves to-	
+284	Dark Knightmon (Bagramon)	-evolves to-	Darkness Bagramon
+285	Dark Knightmon (Blastmon)	-evolves to-	Dark Knightmon (Lilithmon)
+286	Dark Knightmon (Duskmon)	-evolves to-	Dark Knightmon (Gulfmon)
+287	Dark Knightmon (Gulfmon)	-evolves to-	Dark Knightmon (Blastmon)
+288	Dark Knightmon (Lilithmon)	-evolves to-	Zeed Millenniumon
+289	Dark Lizamon	-evolves to-	
+290	Dark Superstarmon	-evolves to-	
+291	Dark Tyranomon	-evolves to-	Dark Tyranomon (X-Antibody), Metal Tyranomon
+292	Dark Tyranomon (X-Antibody)	-evolves to-	
+293	Dark Volumon	-evolves to-	Ballistamon, Shoutmon X2
+294	Darkdramon	-evolves to-	Chaosmon, Ultimate Chaosmon
+295	Darkness Bagramon	-evolves to-	Mega Darkness Bagramon
+296	Deadly Axemon	-evolves to-	Apollomon Darkness Mode, Dark Knightmon, Deadly Tuwarmon, Deadly Tuwarmon Hell Mode, Grey Knightsmon, Shoutmon X3SD, Skull Knightmon: Cavalier Mode
+297	Deadly Tuwarmon	-evolves to-	
+298	Deadly Tuwarmon Hell Mode	-evolves to-	
+299	Death Airdramon	-evolves to-	
+300	Death Devimon	-evolves to-	
+301	Death Meramon	-evolves to-	Beelzebumon, Boltmon
+302	Death Meramon (C'mon Digimon Version)	-evolves to-	
+303	Death Metal Greymon	-evolves to-	
+304	Death Tyranomon	-evolves to-	
+305	Death-X-DORUgamon	-evolves to-	Death-X-DORUguremon, Gaioumon, Hisyaryumon
+306	Death-X-DORUgoramon	-evolves to-	Death-X-mon
+307	Death-X-DORUguremon	-evolves to-	Death-X-DORUgoramon
+308	Death-X-mon	-evolves to-	
+309	Deathmon	-evolves to-	Deathmon (Black)
+310	Deathmon (Black)	-evolves to-	
+311	Deathmon (C'mon Digimon Version)	-evolves to-	
+312	Decker Greymon	-evolves to-	
+313	Deckerdramon	-evolves to-	Decker Greymon, Deckerdramon Float Mode
+314	Deckerdramon Float Mode	-evolves to-	
+315	Deltamon	-evolves to-	
+316	Delumon	-evolves to-	
+317	Demon	-evolves to-	Demon Super Ultimate, Demon (X-Antibody), Ogudomon
+318	Demon Super Ultimate	-evolves to-	
+319	Demon (X-Antibody)	-evolves to-	Ogudomon X-Antibody
+320	Depthmon	-evolves to-	
+321	Destromon	-evolves to-	
+322	Devidramon	-evolves to-	
+323	Devimon	-evolves to-	Ice Devimon, Neo Devimon, Neo Vamdemon Darkness Mode (Vampire Army), Skull Satamon
+324	Devitamamon	-evolves to-	
+325	Diablomon	-evolves to-	Armagemon, Diablomon (X-Antibody), Quartzmon
+326	Diablomon (X-Antibody)	-evolves to-	Ogudomon (X-Antibody)
+327	Dianamon	-evolves to-	Grace Novamon
+328	Diatrymon	-evolves to-	
+329	Digitamamon	-evolves to-	Devitamamon, Minervamon, Titamon
+330	Digmon	-evolves to-	
+331	Dinobeemon	-evolves to-	Gran Kuwagamon, Imperialdramon: Dragon Mode
+332	Dinohumon	-evolves to-	
+333	Dinorexmon	-evolves to-	
+334	Dinotigermon	-evolves to-	
+335	Dobermon	-evolves to-	Deadly Tuwarmon Hell Mode, Dobermon (X-Antibody), Sethmon Wild Mode
+336	Dobermon (X-Antibody)	-evolves to-	Cerberumon (X-Antibody)
+337	Dodomon	-evolves to-	Dorimon
+338	Dogmon	-evolves to-	
+339	Dokugumon	-evolves to-	
+340	Dokunemon	-evolves to-	
+341	Dominimon	-evolves to-	
+342	Dondokomon	-evolves to-	Don Shoutmon, G-Cutemon
+343	Don Shoutmon	-evolves to-	
+344	Dorbickmon	-evolves to-	Dorbickmon Darkness Mode (Huanglongmon), Grand Generamon, Grand Generamon (Incomplete)
+345	Dorbickmon Darkness Mode	-evolves to-	Dorbickmon Darkness Mode (Flare Lizamon), Dorbickmon Darkness Mode (Dragon Army)
+346	Dorbickmon Darkness Mode (Dragon Army)	-evolves to-	
+347	Dorbickmon Darkness Mode + Flare Lizarmon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+348	Dorimon	-evolves to-	DORUmon
+349	DORUgamon	-evolves to-	DORUguremon
+350	DORUgoramon	-evolves to-	Death-X-DORUgoramon
+351	DORUguremon	-evolves to-	Alphamon, Alphamon: Ouryuken, Death-X-DORUguremon, Death-X-mon, DORUgoramon, Gaioumon
+352	Dorulumon	-evolves to-	Ballistamon SR, Dorulu Copter, Jäger Dorulumon, Rampage Greymon, Revolmon + Dorulu Cannon + Starmons, Shoutmon + Dorulu Cannon, Shoutmon X3, Shoutmon X4, Shoutmon X4B, Shoutmon X4K, Shoutmon X4S, Shoutmon X5, Shoutmon X5B, Shoutmon X6, Shoutmon X7, Xros Up Dorulumon (Pawn Chessmon (White))
+353	Dorulumon + Starmons	-evolves to-	
+354	DORUmon	-evolves to-	Alphamon, Death-X-DORUgamon, DORUgamon, DORUgoramon, DORUguremon, Gaioumon, Raptordramon
+355	Dot Agumon	-evolves to-	
+356	Dot Falcomon	-evolves to-	
+357	Dot Gaomon	-evolves to-	
+358	Dot Kamemon	-evolves to-	
+359	Dot Kudamon	-evolves to-	
+360	Dot Lalamon	-evolves to-	
+361	Dot Mirage Gaogamon	-evolves to-	
+362	Dot Shine Greymon	-evolves to-	
+363	Doumon	-evolves to-	Kuzuhamon
+364	Dracomon	-evolves to-	Coredramon (Blue), Coredramon (Green), Dracomon + Cyberdramon, Dracomon (X-Antibody)
+365	Dracomon (X-Antibody)	-evolves to-	
+366	Dracomon + Cyberdramon	-evolves to-	
+367	Dracumon	-evolves to-	Grand Dracumon, Sangloupmon, Yaksamon
+368	Drimogemon	-evolves to-	Digmon, Mush-Upped Mach Leomon
+369	Duftmon	-evolves to-	Duftmon Leopard Mode, Duftmon (X-Antibody)
+370	Duftmon (X-Antibody)	-evolves to-	
+371	Duftmon: Leopard Mode	-evolves to-	Duftmon
+372	Dukemon	-evolves to-	Dukemon: Crimson Mode, Dukemon (X-Antibody)
+373	Dukemon: Chaos Mode	-evolves to-	
+374	Dukemon: Crimson Mode	-evolves to-	
+375	Dukemon (X-Antibody)	-evolves to-	
+376	Duramon	-evolves to-	
+377	Durandamon	-evolves to-	Ragna Lordmon
+378	Duskmon	-evolves to-	Dark Knightmon (Duskmon), Löwemon, Velgrmon
+379	Dynasmon	-evolves to-	Dynasmon (X-Antibody)
+380	Dynasmon (X-Antibody)	-evolves to-	
+381	Earthdramon	-evolves to-	
+382	Ebemon	-evolves to-	Ebemon (X-Antibody)
+383	Ebemon (X-Antibody)	-evolves to-	
+384	Ebi Burgamon	-evolves to-	
+385	Ebidramon	-evolves to-	
+386	Ekakimon	-evolves to-	
+387	El Doradimon	-evolves to-	
+388	Elecmon	-evolves to-	Garurumon (Black), Grappu Leomon, Leomon
+389	Elecmon (Violet)	-evolves to-	
+390	Elephamon	-evolves to-	
+391	Eosmon (Adult)	-evolves to-	Eosmon (Perfect)
+392	Eosmon (Perfect)	-evolves to-	Eosmon (Ultimate)
+393	Eosmon (Ultimate)	-evolves to-	
+394	Etemon	-evolves to-	Etemon Chaos, King Etemon, Metal Etemon
+395	Etemon Chaos	-evolves to-	Metal Etemon
+396	Evilmon	-evolves to-	Gattai Lilithmon
+397	Ex-Tyranomon	-evolves to-	
+398	Examon	-evolves to-	Examon (X-Antibody)
+399	Examon (X-Antibody)	-evolves to-	
+400	Exo Grimmon	-evolves to-	
+401	Fairimon	-evolves to-	Ancient Irismon, Jet Silphymon, Shutumon
+402	Falcomon	-evolves to-	Diatrymon
+403	Falcomon (2006 Anime Version)	-evolves to-	Peckmon, Ravmon
+404	Fangmon	-evolves to-	
+405	Fantomon	-evolves to-	Metal Fantomon
+406	Filmon	-evolves to-	Stiffilmon
+407	Firamon	-evolves to-	Flaremon
+408	Fla Wizarmon	-evolves to-	
+409	Fladramon	-evolves to-	Imperialdramon Fighter Mode
+410	Flamon	-evolves to-	Agnimon
+411	Flare Lizarmon	-evolves to-	Dorbickmon Darkness Mode (Flare Lizamon), Dorbickmon Darkness Mode (Dragon Army)
+412	Flaremon	-evolves to-	Apollomon
+413	Floramon	-evolves to-	Kiwimon, Vegimon
+414	Flybeemon	-evolves to-	
+415	Flymon	-evolves to-	
+416	Footmon	-evolves to-	
+417	Frimon	-evolves to-	Liollmon
+418	Frogmon	-evolves to-	
+419	Fufumon	-evolves to-	
+420	Funbeemon	-evolves to-	
+421	Fugamon	-evolves to-	
+422	Fujinmon	-evolves to-	
+423	Fujitsumon	-evolves to-	
+424	Fuximon	-evolves to-	
+425	G-Cutemon	-evolves to-	
+426	Gabumon	-evolves to-	Gabumon Yujo's Kizuna, Gabumon (X-Antibody), Garurumon, Kita Kitsunemon, Metal Garurumon, Omegamon
+427	Gabumon (X-Antibody)	-evolves to-	Garurumon X-Antibody
+428	Gabumon (Black)	-evolves to-	Garurumon (Black), Metal Garurumon (Black)
+429	Gabumon -Yujo's Kizuna-	-evolves to-	
+430	Gaiamon	-evolves to-	
+431	Gaioumon	-evolves to-	
+432	Galgomon	-evolves to-	Black Rapidmon, Rapidmon
+433	Ganemon	-evolves to-	
+434	Ganimon	-evolves to-	Coelamon, Ganimon (X-Antibody)
+435	Ganimon (X-Antibody)	-evolves to-	
+436	Gankoomon	-evolves to-	Gankoomon (X-Antibody)
+437	Gankoomon (X-Antibody)	-evolves to-	Jesmon GX
+438	Gaogamon	-evolves to-	Mach Gaogamon
+439	Gaomon	-evolves to-	Black Gaogamon, Gaogamon, Mirage Gaogamon
+440	Gaossmon	-evolves to-	Pawn Gaossmon
+441	Gargomon	-evolves to-	
+442	Garummon	-evolves to-	Beowulfmon
+443	Garudamon	-evolves to-	Garudamon (X-Antibody), Hououmon
+444	Garudamon (X-Antibody)	-evolves to-	
+445	Garurumon	-evolves to-	Chimairamon, Garurumon X-Antibody, Omegamon, Were Garurumon
+446	Garurumon X-Antibody	-evolves to-	Were Garurumon (X-Antibody)
+447	Garurumon (Black)	-evolves to-	Were Garurumon (Black)
+448	Gattai Ancient Volcamon	-evolves to-	
+449	Gattai Lilithmon	-evolves to-	
+450	Gawappamon	-evolves to-	Shawujinmon
+451	Gazimon	-evolves to-	Gazimon (X-Antibody), Leomon
+452	Gazimon (X-Antibody)	-evolves to-	
+453	Gekomon	-evolves to-	Tonosama Gekomon
+454	Generamon	-evolves to-	
+455	Geo Greymon	-evolves to-	Rize Greymon
+456	Gerbemon	-evolves to-	
+457	Geremon	-evolves to-	
+458	Gesomon	-evolves to-	Gesomon (X-Antibody)
+459	Gesomon (X-Antibody)	-evolves to-	
+460	Ghostmon	-evolves to-	
+461	Giga Breakdramon	-evolves to-	Xros Up Arresterdramon (Giga Breakdramon)
+462	Giga Seadramon	-evolves to-	
+463	Giga Waru Monzaemon	-evolves to-	
+464	Gigadramon	-evolves to-	Dorbickmon Darkness Mode (Dragon Army)
+465	Gigantic Numemon	-evolves to-	
+466	Gigasmon	-evolves to-	
+467	Gigimon	-evolves to-	Guilmon
+468	Ginkakumon	-evolves to-	Ginkakumon Promote
+469	Ginkakumon Promote	-evolves to-	
+470	Ginryumon	-evolves to-	Hisyaryumon
+471	Giromon	-evolves to-	
+472	Gizamon	-evolves to-	
+473	Gizmon: AT	-evolves to-	Gizmon: XT
+474	Gizmon: XT	-evolves to-	
+475	Gladimon	-evolves to-	
+476	Goatmon	-evolves to-	Deadly Tuwarmon Hell Mode
+477	Goburimon	-evolves to-	Fugamon, Orgemon
+478	Goddramon	-evolves to-	Goddramon (X-Antibody)
+479	Goddramon (X-Antibody)	-evolves to-	
+480	Gogmamon	-evolves to-	
+481	Gokimon	-evolves to-	
+482	Gokumon	-evolves to-	
+483	Gokuwmon	-evolves to-	
+484	Gold Numemon	-evolves to-	
+485	Gold V-dramon	-evolves to-	
+486	Golem Jiji Kamemon	-evolves to-	
+487	Golemon	-evolves to-	Golem Jiji Kamemon, Mail Birdramon + Golemon
+488	Golemon (PS)	-evolves to-	
+489	Gomamon	-evolves to-	Gomamon (X-Antibody), Ikkakumon, Plesiomon, Urashimamon, Vikemon
+490	Gomamon (X-Antibody)	-evolves to-	
+491	Gorimon	-evolves to-	Deadly Tuwarmon Hell Mode
+492	Gottsumon	-evolves to-	Golemon, Gottsumon (X-Antibody), Icemon, Insekimon, Minotaurmon Adult, Monochromon
+493	Gottsumon (X-Antibody)	-evolves to-	
+494	Grace Novamon	-evolves to-	
+495	Grademon	-evolves to-	Alphamon
+496	Grademon (Vice)	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+497	Gran Kuwagamon	-evolves to-	Grandis Kuwagamon
+498	Grand Dracumon	-evolves to-	
+499	Grand Generamon	-evolves to-	
+500	Grand Locomon	-evolves to-	
+501	Grandis Kuwagamon	-evolves to-	Grandis Kuwagamon Honey Mode
+502	Grandis Kuwagamon Honey Mode	-evolves to-	
+503	Grappu Leomon	-evolves to-	Heavy Leomon, Saber Leomon
+504	Gravimon	-evolves to-	Gravimon Darkness Mode, Grand Generamon, Grand Generamon (Incomplete)
+505	Gravimon Darkness Mode	-evolves to-	
+506	Grey Knightsmon	-evolves to-	
+507	Greymon	-evolves to-	Greymon (X-Antibody), Metal Greymon, Metal Greymon (Virus), Omegamon, Skull Greymon, War Greymon
+508	Greymon (X-Antibody)	-evolves to-	Metal Greymon (X-Antibody)
+509	Greymon (2010 Anime Version)	-evolves to-	Decker Greymon, Grey Knightsmon, Greymon + Skull Knightmon, Metal Greymon (2010 Anime Version), Shoutmon X3GM
+510	Greymon (Ash)	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+511	Greymon (Blue)	-evolves to-	Metal Greymon (Virus)
+512	Greymon (Orange)	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+513	Greymon + Skull Knightmon	-evolves to-	Shoutmon X5 + Skull Greymon
+514	Griffomon	-evolves to-	
+515	Grimmon	-evolves to-	Chaos Grimmon
+516	Grottomon	-evolves to-	Ancient Volcamon, Gigasmon
+517	Groundramon	-evolves to-	Breakdramon
+518	Growmon	-evolves to-	Growmon (X-Antibody), Megalo Growmon
+519	Growmon (X-Antibody)	-evolves to-	
+520	Growmon (Orange)	-evolves to-	Megalo Growmon (Orange)
+521	Gryzmon	-evolves to-	Callismon, Deadly Tuwarmon Hell Mode, Sethmon Wild Mode
+522	Guardromon	-evolves to-	Andromon, Guardromon (Gold)
+523	Guardromon (Gold)	-evolves to-	
+524	Gusokumon	-evolves to-	
+525	Guidemon	-evolves to-	
+526	Guilmon	-evolves to-	Dukemon, Dukemon Crimson Mode, Growmon, Guilmon (X-Antibody), Megalo Growmon, Megidramon
+527	Guilmon (X-Antibody)	-evolves to-	
+528	Gulfmon	-evolves to-	Dark Knightmon (Gulfmon)
+529	Gumdramon	-evolves to-	Arresterdramon, Xros Up Arresterdramon (Sagomon), Xros Up Gumdramon (Kotemon)
+530	Gummymon	-evolves to-	Terriermon
+531	Gundramon	-evolves to-	
+532	Gururumon	-evolves to-	
+533	Guumon	-evolves to-	
+534	Hackmon	-evolves to-	Bao Hackmon, Jesmon
+535	Hagurumon	-evolves to-	Guardromon, Hagurumon (X-Antibody)
+536	Hagurumon (X-Antibody)	-evolves to-	
+537	Hangyomon	-evolves to-	
+538	Hanumon	-evolves to-	Mad Leomon (Final Mode)
+539	Harpymon	-evolves to-	
+540	Hawkmon	-evolves to-	Aquilamon, Holsmon, Rinkmon, Shurimon
+541	Heavy Leomon	-evolves to-	
+542	Herakle Kabuterimon	-evolves to-	Herakle Kabuterimon (X-Antibody), Omegamon: Merciful Mode
+543	Herakle Kabuterimon (X-Antibody)	-evolves to-	
+544	Herissmon	-evolves to-	Filmon, Stiffilmon
+545	Hermmon	-evolves to-	
+546	Hexeblaumon	-evolves to-	
+547	Hi Andromon	-evolves to-	
+548	Hi Mugendramon	-evolves to-	
+549	Hi-Vision Monitamon	-evolves to-	Mervamon Wide Hi-Vision Sword
+550	Hippogriffomon	-evolves to-	Darcmon, Griffomon, Gravimon Darkness Mode, Murmukusmon
+551	Hisyaryumon	-evolves to-	Ouryumon
+552	Holsmon	-evolves to-	
+553	Holy Angemon	-evolves to-	Dominimon, Holy Angemon: Priest Mode, Murmukusmon, Seraphimon
+554	Holy Angemon: Priest Mode	-evolves to-	Holy Angemon, Seraphimon, Dominimon
+555	Holy Digitamamon	-evolves to-	
+556	Holydramon	-evolves to-	Holydramon (X-Antibody), Omegamon: Merciful Mode
+557	Holydramon (X-Antibody)	-evolves to-	
+558	Honeybeemon	-evolves to-	Grandis Kuwagamon Honey Mode
+559	Hookmon	-evolves to-	
+560	Hopmon	-evolves to-	Monodramon
+561	Hououmon	-evolves to-	Hououmon (X-Antibody), Omegamon: Merciful Mode
+562	Hououmon (X-Antibody)	-evolves to-	
+563	Huanglongmon	-evolves to-	Dorbickmon Darkness Mode (Huanglongmon)
+564	Hubmon	-evolves to-	
+565	Hudiemon	-evolves to-	
+566	Huntermon	-evolves to-	
+567	Hustle Nanimon	-evolves to-	
+568	Hyougamon	-evolves to-	
+569	Hyokomon	-evolves to-	Buraimon
+570	Ice Devimon	-evolves to-	Ice Devimon Enhancement Absorbent, Ice Devimon Daipenmon Enhancement Absorbent
+571	Ice Devimon Enhancement Absorbent	-evolves to-	
+572	Ice Devimon Daipenmon Enhancement Absorbent	-evolves to-	
+573	Icemon	-evolves to-	Ice Devimon Enhancement Absorbent
+574	Igamon	-evolves to-	
+575	Iguneetmon	-evolves to-	
+576	Ikkakumon	-evolves to-	Vikemon, Zudomon
+577	Imperialdramon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+578	Imperialdramon (Black)	-evolves to-	Imperialdramon Fighter Mode (Black)
+579	Imperialdramon Fighter Mode	-evolves to-	Imperialdramon: Paladin Mode
+580	Imperialdramon Fighter Mode (Black)	-evolves to-	
+581	Imperialdramon Paladin Mode	-evolves to-	
+582	Impmon	-evolves to-	Beelzebumon, Beelzebumon Blast Mode, Impmon (X-Antibody), Meramon
+583	Impmon (X-Antibody)	-evolves to-	
+584	Indaramon	-evolves to-	
+585	Infermon	-evolves to-	Diablomon
+586	Insekimon	-evolves to-	
+587	Jäger Dorulumon	-evolves to-	Shoutmon EX6
+588	Jazamon	-evolves to-	Jazardmon
+589	Jazardmon	-evolves to-	Jazarichmon
+590	Jazarichmon	-evolves to-	Metallicdramon
+591	Jesmon	-evolves to-	Jesmon GX, Jesmon (X-Antibody)
+592	Jesmon (X-Antibody)	-evolves to-	Jesmon GX
+593	Jesmon GX	-evolves to-	
+594	Jet Mervamon	-evolves to-	
+595	Jet Silphymon	-evolves to-	
+596	Jewelbeemon	-evolves to-	
+597	Jijimon	-evolves to-	G-Cutemon, Golem Jiji Kamemon, Jiji Shoutmon
+598	Jiji Shoutmon	-evolves to-	
+599	Jiko Chuumon	-evolves to-	
+600	Jokermon	-evolves to-	
+601	Jumbo Gamemon	-evolves to-	
+602	Jungle Mojyamon	-evolves to-	
+603	Junomon	-evolves to-	Junomon: Hysteric Mode
+604	Junomon: Hysteric Mode	-evolves to-	
+605	Jupitermon	-evolves to-	
+606	Jupitermon: Wrath Mode	-evolves to-	
+607	Justimon (X-Antibody)	-evolves to-	
+608	Justimon Accel Arm	-evolves to-	Justimon Blitz Arm, Justimon Critical Arm, Justimon (X-Antibody)
+609	Justimon Blitz Arm	-evolves to-	Justimon (X-Antibody), Justimon Accel Arm, Justimon Critical Arm
+610	Justimon Critical Arm	-evolves to-	Justimon Blitz Arm, Justimon Accel Arm, Justimon (X-Antibody)
+611	Jyagamon	-evolves to-	
+612	Jyarimon	-evolves to-	Gigimon
+613	Jyureimon	-evolves to-	Deathmon, Pinochimon
+614	Kabukimon	-evolves to-	
+615	Kabuterimon	-evolves to-	Atlur Kabuterimon (Blue), Atlur Kabuterimon (Red), Chimairamon, Kongoumon
+616	Kaiser Greymon	-evolves to-	Susanoomon
+617	Kaiser Leomon	-evolves to-	Raihimon
+618	Kakkinmon	-evolves to-	Ludomon
+619	Kamemon	-evolves to-	Shoutmon X2 Plus M, G-Cutemon, Gawappamon, Golem Jiji Kamemon, Xros Up Shoutmon (Chibi Kamemon)
+620	Kandoushichaundamon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+621	Kangalmon	-evolves to-	
+622	Karatenmon	-evolves to-	
+623	Karatuki Numemon	-evolves to-	
+624	Kenkimon	-evolves to-	Valvemon
+625	Keramon	-evolves to-	Chrysalimon, Diablomon, Infermon, Keramon (X-Antibody)
+626	Keramon (X-Antibody)	-evolves to-	Diablomon (X-Antibody)
+627	Ketomon	-evolves to-	Hopmon
+628	Kiimon	-evolves to-	Yaamon
+629	King Chessmon	-evolves to-	
+630	King Etemon	-evolves to-	
+631	King Whamon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+632	Kinkakumon	-evolves to-	Ginkakumon Promote
+633	Kita Kitsunemon	-evolves to-	
+634	Kiwimon	-evolves to-	Blossomon
+635	Knight Chessmon (Black)	-evolves to-	Rook Chessmon (Black)
+636	Knight Chessmon (White)	-evolves to-	Bishop Chessmon (White), Knight Chessmon (Black)
+637	Knightmon	-evolves to-	G-Cutemon, Knightmon Wise Sword Mode, Lord Knightmon, Shoutmon X4K
+638	Knightmon Wise Sword Mode	-evolves to-	
+639	Kodokugumon	-evolves to-	Dokugumon
+640	Koemon	-evolves to-	
+641	Kohagurumon	-evolves to-	
+642	Kokabuterimon	-evolves to-	
+643	Kokuwamon	-evolves to-	Guardromon, Kokuwamon (X-Antibody)
+644	Kokuwamon (X-Antibody)	-evolves to-	
+645	Kongoumon	-evolves to-	
+646	Koromon	-evolves to-	Agumon, Agumon (2006 Anime Version)
+647	Kotemon	-evolves to-	Dinohumon
+648	Kougamon	-evolves to-	
+649	Kozenimon	-evolves to-	
+650	Kudamon	-evolves to-	
+651	Kudamon (2006 Anime Version)	-evolves to-	Reppamon, Sleipmon, Tyilinmon
+652	Kumbhiramon	-evolves to-	
+653	Kunemon	-evolves to-	Flymon
+654	Kuramon	-evolves to-	Armagemon, Diablomon, Tsumemon
+655	Kuwagamon	-evolves to-	Chimairamon, Kuwagamon (X-Antibody), Megadramon, Okuwamon
+656	Kuwagamon (X-Antibody)	-evolves to-	
+657	Kuzuhamon	-evolves to-	Kuzuhamon: Miko Mode
+658	Kuzuhamon: Miko Mode	-evolves to-	
+659	Kyaromon	-evolves to-	
+660	Kyokyomon	-evolves to-	Ryudamon
+661	Kyubimon	-evolves to-	Taomon
+662	Kyubimon (Silver)	-evolves to-	
+663	Kyukanchoumon	-evolves to-	
+664	Kyukimon	-evolves to-	
+665	Labramon	-evolves to-	Dobermon, Siesamon
+666	Lady Devimon	-evolves to-	Lady Devimon (X-Antibody), Mastemon, Neo Vamdemon Darkness Mode (Vampire Army)
+667	Lady Devimon (X-Antibody)	-evolves to-	
+668	Lalamon	-evolves to-	Rosemon, Sunflowmon
+669	Lampmon	-evolves to-	
+670	Lavorvomon	-evolves to-	Lavogaritamon
+671	Lavogaritamon	-evolves to-	Volcanicdramon
+672	Leafmon	-evolves to-	Minomon
+673	Lekismon	-evolves to-	Crescemon
+674	Leomon	-evolves to-	Grappu Leomon, Leomon (X-Antibody), Mad Leomon, Panjyamon, Saber Leomon
+675	Leomon (X-Antibody)	-evolves to-	
+676	Leviamon	-evolves to-	Leviamon (X-Antibody), Ogudomon
+677	Leviamon (X-Antibody)	-evolves to-	Ogudomon X-Antibody
+678	Liamon	-evolves to-	Loader Liomon
+679	Lighdramon	-evolves to-	
+680	Lilamon	-evolves to-	Rosemon
+681	Lilimon	-evolves to-	Bancho Lilimon, Lilimon (X-Antibody), Rosemon
+682	Lilimon (X-Antibody)	-evolves to-	Rosemon (X-Antibody)
+683	Lilithmon	-evolves to-	Dark Knightmon (Lilithmon), Gattai Lilithmon, Lilithmon (X-Antibody), Majuu Lilithmon, Ogudomon
+684	Lilithmon (X-Antibody)	-evolves to-	Ogudomon X-Antibody
+685	Linkmon	-evolves to-	
+686	Liollmon	-evolves to-	Liamon
+687	Loader Liomon	-evolves to-	Bancho Leomon
+688	Locomon	-evolves to-	Grand Locomon
+689	Lopmon	-evolves to-	Andiramon, Cherubimon (Vice), Lopmon (X-Antibody), Neo Vamdemon Darkness Mode (Shoutmon), Turuiemon, Wendimon, White Lopmon
+690	Lopmon (X-Antibody)	-evolves to-	
+691	Lord Knightmon	-evolves to-	Lord Knightmon (X-Antibody)
+692	Lord Knightmon (X-Antibody)	-evolves to-	
+693	Lotusmon	-evolves to-	
+694	Lucemon	-evolves to-	Lucemon: Falldown Mode
+695	Lucemon Falldown Mode	-evolves to-	Lucemon (X-Antibody), Lucemon: Larva, Lucemon: Satan Mode, Ogudomon
+696	Lucemon Larva	-evolves to-	
+697	Lucemon: Satan Mode	-evolves to-	
+698	Lucemon (X-Antibody)	-evolves to-	Ogudomon X-Antibody
+699	Ludomon	-evolves to-	Tia Ludomon
+700	Luminamon	-evolves to-	Luminamon (Nene Version)
+701	Luminamon (Nene Version)	-evolves to-	
+702	Lunamon	-evolves to-	Dianamon, Lekismon
+703	Lykamon	-evolves to-	
+704	Lynxmon	-evolves to-	
+705	Löwemon	-evolves to-	Ancient Sphinxmon, Duskmon, Kaiser Leomon, Raihimon
+706	Mach Gaogamon	-evolves to-	Mirage Gaogamon, Z'd Garurumon
+707	Mach Leomon	-evolves to-	Mush-Upped Mach Leomon
+708	Mad Leomon	-evolves to-	Mad Leomon: Armed Mode, Mad Leomon: Orochi Mode, Mad Leomon: Final Mode
+709	Mad Leomon (Final Mode)	-evolves to-	
+710	Mad Leomon (Orochi Mode)	-evolves to-	
+711	Mad Leomon: Armed Mode	-evolves to-	
+712	Magna Garurumon	-evolves to-	Susanoomon
+713	Magna Kidmon	-evolves to-	
+714	Magnamon	-evolves to-	Magnamon (X-Antibody)
+715	Magnamon (X-Antibody)	-evolves to-	
+716	Mail Birdramon	-evolves to-	Decker Greymon, Grey Knightsmon, Mail Birdramon + Golemon, Metal Greymon (2010 Anime Version), Shoutmon X3GM
+717	Mail Birdramon + Golemon	-evolves to-	
+718	Maildramon	-evolves to-	
+719	Majiramon	-evolves to-	
+720	Majuu Lilithmon	-evolves to-	
+721	Makuramon	-evolves to-	
+722	Mamemon	-evolves to-	Catch Mamemon, Mamemon (X-Antibody), Prince Mamemon, Tonosama Mamemon
+723	Mamemon (X-Antibody)	-evolves to-	
+724	Mametyramon	-evolves to-	
+725	Mammon	-evolves to-	Mad Leomon: Armed Mode, Mammon (X-Antibody), Skull Mammon
+726	Mammon (X-Antibody)	-evolves to-	
+727	Manbomon	-evolves to-	
+728	Mantaraymon	-evolves to-	Mantaraymon (X-Antibody)
+729	Mantaraymon (X-Antibody)	-evolves to-	
+730	Marin Angemon	-evolves to-	NEO
+731	Marin Chimairamon	-evolves to-	
+732	Marin Devimon	-evolves to-	
+733	Marsmon	-evolves to-	
+734	Mastemon	-evolves to-	
+735	Master Tyranomon	-evolves to-	
+736	Master V-dramon	-evolves to-	
+737	Matadrmon	-evolves to-	Grand Dracumon
+738	Mechanorimon	-evolves to-	
+739	Medieval Dukemon	-evolves to-	Dukemon (X-Antibody)
+740	Mega Black Shoutmon X7	-evolves to-	
+741	Mega Dark Knightmon	-evolves to-	
+742	Mega Darkness Bagramon	-evolves to-	
+743	Mega Decker Greymon	-evolves to-	
+744	Mega Gran Kuwagamon	-evolves to-	
+745	Mega Muso Knightmon	-evolves to-	
+746	Mega Seadramon	-evolves to-	Mega Seadramon (X-Antibody), Metal Seadramon
+747	Mega Seadramon (X-Antibody)	-evolves to-	
+748	Megadramon	-evolves to-	Deathmon, Mugendramon
+749	Megalo Growmon	-evolves to-	Dukemon, Megalo Growmon (X-Antibody), Megidramon
+750	Megalo Growmon (X-Antibody)	-evolves to-	
+751	Megalo Growmon (Data)	-evolves to-	
+752	Megidramon	-evolves to-	Chaos Dukemon, Megidramon (X-Antibody), Zeed Millenniumon
+753	Megidramon (X-Antibody)	-evolves to-	
+754	Meicrackmon	-evolves to-	Meicrackmon: Vicious Mode, Rasielmon
+755	Meicrackmon Vicious Mode	-evolves to-	Raguelmon
+756	Meicoomon	-evolves to-	Meicrackmon, Meicrackmon: Vicious Mode, Raguelmon, Rasielmon
+757	Meicoomon's Unnamed Baby Form	-evolves to-	Meicoomon's Unnamed Child Form
+758	Meicoomon's Unnamed Child Form	-evolves to-	Meicoomon
+759	Mephismon	-evolves to-	Gulfmon, Mephismon (X-Antibody)
+760	Mephismon (X-Antibody)	-evolves to-	
+761	Meramon	-evolves to-	Blue Meramon, Death Meramon, Gattai Ancient Volcamon, Meramon (X-Antibody)
+762	Meramon (X-Antibody)	-evolves to-	
+763	Mercuremon	-evolves to-	Ancient Wisemon, Black Seraphimon, Sephirothmon
+764	Mercurymon	-evolves to-	
+765	Mermaimon	-evolves to-	
+766	Mervamon	-evolves to-	Jet Mervamon, Mervamon Wide Hi-Vision Sword, Xros Up Mervamon (Beelzebumon)
+767	Mervamon Wide Hi-Vision Sword	-evolves to-	
+768	Metal Etemon	-evolves to-	
+769	Metal Fantomon	-evolves to-	
+770	Metal Garurumon	-evolves to-	Metal Garurumon (X-Antibody), Omegamon, Omegamon (X-Antibody), Omegamon Zwart
+771	Metal Garurumon (X-Antibody)	-evolves to-	Omegamon (X-Antibody)
+772	Metal Garurumon (Black)	-evolves to-	Omegamon Zwart
+773	Metal Greymon	-evolves to-	Metal Greymon (X-Antibody), War Greymon
+774	Metal Greymon (X-Antibody)	-evolves to-	War Greymon (X-Antibody)
+775	Metal Greymon (2010 Anime Version)	-evolves to-	Decker Greymon, Metal Greymon + Cyber Launcher, Neo Vamdemon Darkness Mode, Rampage Greymon, Zeke Greymon
+776	Metal Greymon (Virus)	-evolves to-	Black War Greymon, Blitz Greymon, Metal Greymon (Virus) (X-Antibody)
+777	Metal Greymon (Virus) (X-Antibody)	-evolves to-	
+778	Metal Greymon + Cyber Launcher	-evolves to-	
+779	Metal Mamemon	-evolves to-	Metal Mamemon (X-Antibody), Mugendramon
+780	Metal Mamemon (X-Antibody)	-evolves to-	
+781	Metal Piranimon	-evolves to-	
+782	Metal Seadramon	-evolves to-	Giga Seadramon
+783	Metal Tyranomon	-evolves to-	Metal Tyranomon (X-Antibody), Mugendramon, Rust Tyranomon, Xros Up Arresterdramon (Metal Tyranomon)
+784	Metal Tyranomon (X-Antibody)	-evolves to-	
+785	Metallicdramon	-evolves to-	
+786	Metallife Kuwagamon	-evolves to-	
+787	Metamormon	-evolves to-	
+788	Mihiramon	-evolves to-	
+789	Mikemon	-evolves to-	
+790	Millenniumon	-evolves to-	Moon Millenniumon, Zeed Millenniumon
+791	Minervamon	-evolves to-	Mervamon, Minervamon (X-Antibody)
+792	Minervamon (X-Antibody)	-evolves to-	
+793	Minidekachimon	-evolves to-	
+794	Minomon	-evolves to-	Wormmon
+795	Minotaurmon	-evolves to-	
+796	Minotaurmon Adult	-evolves to-	
+797	Mirage Gaogamon	-evolves to-	Mirage Gaogamon: Burst Mode
+798	Mirage Gaogamon: Burst Mode	-evolves to-	
+799	Mirror Ballmon	-evolves to-	
+800	Missimon	-evolves to-	
+801	Mistymon	-evolves to-	
+802	Mitamamon	-evolves to-	
+803	Mochimon	-evolves to-	Tentomon
+804	Modoki Betamon	-evolves to-	
+805	Mojyamon	-evolves to-	
+806	Mokumon	-evolves to-	Peti Meramon
+807	Monimon	-evolves to-	
+808	Monitamon	-evolves to-	Shonitamon, Hi-Vision Monitamon
+809	Monochromon	-evolves to-	Chimairamon, Monochromon (X-Antibody)
+810	Monochromon (X-Antibody)	-evolves to-	
+811	Monodramon	-evolves to-	Cyberdramon, Strikedramon
+812	Monzaemon	-evolves to-	Giga Waru Monzaemon, Monzaemon (X-Antibody), Waru Monzaemon
+813	Monzaemon (X-Antibody)	-evolves to-	
+814	Moon=Millenniumon	-evolves to-	Zeed Millenniumon
+815	Moonmon	-evolves to-	Lunamon
+816	Moosemon	-evolves to-	
+817	Mori Shellmon	-evolves to-	
+818	Morphomon	-evolves to-	
+819	Mothmon	-evolves to-	
+820	Muchomon	-evolves to-	
+821	Mugendramon	-evolves to-	Chaosdramon, Hi Mugendramon, Millenniumon
+822	Mummymon	-evolves to-	
+823	Murmukusmon	-evolves to-	
+824	Mush-Upped Mach Leomon	-evolves to-	
+825	Mushmon	-evolves to-	Ballistamon MC, Woodmon
+826	Musou Knightmon	-evolves to-	
+827	Musyamon	-evolves to-	
+828	Nanimon	-evolves to-	
+829	Nanomon	-evolves to-	
+830	Neamon	-evolves to-	
+831	Nefertimon	-evolves to-	Angewomon, Nefertimon (X-Antibody)
+832	Nefertimon (X-Antibody)	-evolves to-	
+833	Neo Devimon	-evolves to-	
+834	Neo Vamdemon	-evolves to-	Neo Vamdemon Darkness Mode (Vampire Army), Grand Generamon, Grand Generamon (Incomplete)
+835	Neo Vamdemon + Devimon + Lady Devimon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+836	Neo Vamdemon Darkness Mode	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+837	Neo Vamdemon Darkness Mode + Shoutmon	-evolves to-	
+838	Neptunemon	-evolves to-	
+839	Nikkorimon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+840	Nise Agumon Hakase	-evolves to-	
+841	Nise Drimogemon	-evolves to-	
+842	Noble Pumpmon	-evolves to-	
+843	Nohemon	-evolves to-	
+844	Numemon	-evolves to-	Gigantic Numemon, Karatuki Numemon, Monzaemon, Numemon (X-Antibody), Platinum Numemon, Scumon
+845	Numemon (X-Antibody)	-evolves to-	
+846	Nyaromon	-evolves to-	Ofanimon: Falldown Mode, Plotmon
+847	Nyokimon	-evolves to-	Pyocomon, Tanemon
+848	Ochi Musyamon	-evolves to-	
+849	Octmon	-evolves to-	
+850	Ofanimon	-evolves to-	Lilithmon, Ofanimon (X-Antibody), Ofanimon Core, Ofanimon: Falldown Mode
+851	Ofanimon (X-Antibody)	-evolves to-	
+852	Ofanimon Core	-evolves to-	
+853	Ofanimon: Falldown Mode	-evolves to-	Ofanimon, Ofanimon: Falldown Mode (X-Antibody), Ordinemon
+854	Ofanimon: Falldown Mode (X-Antibody)	-evolves to-	
+855	Ogudomon	-evolves to-	Ogudomon (X-Antibody)
+856	Ogudomon (X-Antibody)	-evolves to-	
+857	Ohakadamon	-evolves to-	
+858	Olegmon	-evolves to-	Grand Generamon
+859	Omedamon	-evolves to-	
+860	Omega Armamon BM	-evolves to-	
+861	Omega Shoutmon	-evolves to-	Omega Shoutmon (X-Antibody), Shoutmon DX, Shoutmon X7, Shoutmon EX6, Xros Up Omega Shoutmon (Dorulumon)
+862	Omega Shoutmon (X-Antibody)	-evolves to-	
+863	Omegamon	-evolves to-	Omegamon: Merciful Mode, Omegamon (X-Antibody), Omegamon Zwart
+864	Omegamon Alter-B	-evolves to-	
+865	Omegamon Alter-S	-evolves to-	Omegamon Alter-B‎‎
+866	Omegamon (X-Antibody)	-evolves to-	
+867	Omegamon Zwart D	-evolves to-	Omegamon Alter-B
+868	Omegamon Zwart	-evolves to-	Omegamon Zwart D
+869	Omegamon: Merciful Mode	-evolves to-	
+870	Omekamon	-evolves to-	
+871	Ookuwamon	-evolves to-	Gran Kuwagamon, Okuwamon (X-Antibody)
+872	Ookuwamon X-Antibody	-evolves to-	Grandis Kuwagamon
+873	Opossummon	-evolves to-	Cho·Hakkaimon, Xros Up Opossummon
+874	Orcamon	-evolves to-	
+875	Ordinemon	-evolves to-	
+876	Orgemon	-evolves to-	Digitamamon, Orgemon (X-Antibody), Skull Satamon, Xros Up Arresterdramon (Orgemon)
+877	Orgemon (X-Antibody)	-evolves to-	
+878	Ornismon	-evolves to-	
+879	Orochimon	-evolves to-	Mad Leomon (Orochi Mode), Xuanwumon
+880	Otamamon	-evolves to-	Gekomon, Otamamon (X-Antibody), Tonosama Gekomon
+881	Otamamon (X-Antibody)	-evolves to-	
+882	Otamamon (Red)	-evolves to-	
+883	Ouryumon	-evolves to-	Alphamon: Ouryuken, Ultimate-Battle-Blade-OURYUKEN
+884	Owlmon	-evolves to-	
+885	Paamon	-evolves to-	
+886	Pafumon	-evolves to-	
+887	Pagumon	-evolves to-	Andiramon (Deva), Gizamon, Raremon
+888	Paildramon	-evolves to-	Imperialdramon: Dragon Mode, Imperialdramon: Fighter Mode
+889	Pajramon	-evolves to-	
+890	Pala Pandamon	-evolves to-	Tafa Pandamon
+891	Paledramon	-evolves to-	Crys Paledramon
+892	Palmon	-evolves to-	Cheer Galmon, Palmon (X-Antibody), Rosemon, Togemon
+893	Palmon (X-Antibody)	-evolves to-	Togemon (X-Antibody)
+894	Panbachimon	-evolves to-	
+895	Pandamon	-evolves to-	
+896	Pandamon (2004 Manga Version)	-evolves to-	Pala Pandamon
+897	Panimon	-evolves to-	
+898	Panjyamon	-evolves to-	Panjyamon (X-Antibody), Regulumon
+899	Panjyamon (X-Antibody)	-evolves to-	
+900	Paomon	-evolves to-	Xiaomon
+901	Parallelmon	-evolves to-	
+902	Parasimon	-evolves to-	
+903	Parrotmon	-evolves to-	Crossmon
+904	Patamon	-evolves to-	Angemon, Baromon, Manbomon, Pegasmon, Seraphimon
+905	Pawn Chessmon (Black)	-evolves to-	Knight Chessmon (Black), Rook Chessmon (Black)
+906	Pawn Chessmon (White)	-evolves to-	Bishop Chessmon (White), G-Cutemon, Knight Chessmon (White), Pawn Gaossmon, Pawn Shoutmon, Shoutmon X4K, Xros Up Dorulumon
+907	Pawn Gaossmon	-evolves to-	
+908	Pawn Shoutmon	-evolves to-	
+909	Peacockmon	-evolves to-	
+910	Peckmon	-evolves to-	Yatagaramon (2006 Anime Version)
+911	Pegasmon	-evolves to-	Pegasmon (X-Antibody)
+912	Pegasmon (X-Antibody)	-evolves to-	
+913	Penmon	-evolves to-	Rukamon
+914	Petaldramon	-evolves to-	
+915	Petermon	-evolves to-	
+916	Peti Meramon	-evolves to-	Meramon
+917	Petit Mamon	-evolves to-	
+918	Petitmon	-evolves to-	
+919	Pharaohmon	-evolves to-	
+920	Phascomon	-evolves to-	Porcupamon
+921	Phelesmon	-evolves to-	
+922	Piccolomon	-evolves to-	
+923	Pickmon	-evolves to-	Starmons, Digimon Slingshot, Chibick Sword
+924	Pickmons Slingshot	-evolves to-	
+925	Pico Devimon	-evolves to-	
+926	Pidmon	-evolves to-	
+927	Piemon	-evolves to-	Voltobautamon
+928	Pile Volcamon	-evolves to-	
+929	Pilomon	-evolves to-	
+930	Pinamon	-evolves to-	
+931	Pinochimon	-evolves to-	Xros Up Shoutmon (Pinochimon)
+932	Pipimon	-evolves to-	
+933	Pipismon	-evolves to-	
+934	Piranimon	-evolves to-	
+935	Pitchmon	-evolves to-	Pukamon, Marin Angemon, NEO
+936	Piyomon	-evolves to-	Aquilamon, Birdramon, Garudamon, Hououmon, Kyukanchoumon
+937	Platinum Numemon	-evolves to-	
+938	Platinum Scumon	-evolves to-	
+939	Plesiomon	-evolves to-	Aegisdramon, Plesiomon (X-Antibody), Xros Up Submarimon (Plesiomon)
+940	Plesiomon (X-Antibody)	-evolves to-	
+941	Plotmon	-evolves to-	Plotmon (X-Antibody), Tailmon
+942	Plotmon (X-Antibody)	-evolves to-	Tailmon (X-Antibody)
+943	Plutomon	-evolves to-	
+944	Pokomon	-evolves to-	Renamon
+945	Ponchomon	-evolves to-	
+946	Popomon	-evolves to-	
+947	Porcupamon	-evolves to-	Astamon
+948	Poromon	-evolves to-	Hawkmon
+949	Poyomon	-evolves to-	Tokomon
+950	Prairiemon	-evolves to-	
+951	Prince Mamemon	-evolves to-	Prince Mamemon (X-Antibody)
+952	Prince Mamemon (X-Antibody)	-evolves to-	
+953	Proto Gizmon	-evolves to-	Gizmon: AT
+954	Psychemon	-evolves to-	Astamon
+955	Pteranomon	-evolves to-	Pteranomon (X-Antibody)
+956	Pteranomon (X-Antibody)	-evolves to-	
+957	Pucchiemon	-evolves to-	
+958	Pucchiemon (Green)	-evolves to-	
+959	Pukamon	-evolves to-	Gomamon
+960	Pukumon	-evolves to-	
+961	Pumpmon	-evolves to-	Noble Pumpmon
+962	Punch Narabimon	-evolves to-	
+963	Punimon	-evolves to-	Plotmon, Tunomon
+964	Pupumon	-evolves to-	Puroromon
+965	Puroromon	-evolves to-	
+966	Pururumon	-evolves to-	Poromon
+967	Pusumon	-evolves to-	Pusurimon
+968	Pusurimon	-evolves to-	Herissmon
+969	Puttimon	-evolves to-	Cupimon
+970	Puwamon	-evolves to-	Piyomon
+971	Pyocomon	-evolves to-	Piyomon
+972	Qinglongmon	-evolves to-	Huanglongmon
+973	Quartzmon	-evolves to-	
+974	Queen Chessmon	-evolves to-	
+975	Rafflesimon	-evolves to-	
+976	Ragna Lordmon	-evolves to-	
+977	Ragnamon	-evolves to-	
+978	Raguelmon	-evolves to-	Ordinemon
+979	Raidenmon	-evolves to-	
+980	Raiji Ludomon	-evolves to-	Bryweludramon
+981	Raijinmon	-evolves to-	
+982	Rampage Greymon	-evolves to-	
+983	Ranamon	-evolves to-	Ancient Mermaimon, Calamaramon
+984	Rapidmon (X-Antibody)	-evolves to-	
+985	Rapidmon Armor	-evolves to-	Rapidmon (X-Antibody)
+986	Rapidmon Perfect	-evolves to-	Saint Galgomon
+987	Raptor Sparrowmon	-evolves to-	Shoutmon EX6
+988	Raptordramon	-evolves to-	Grademon
+989	Raremon	-evolves to-	
+990	Rare Star Sword	-evolves to-	
+991	Rasielmon	-evolves to-	
+992	Rasenmon	-evolves to-	
+993	Rasenmon: Fury Mode	-evolves to-	Rasenmon
+994	Ravmon	-evolves to-	Ravmon: Burst Mode
+995	Ravmon: Burst Mode	-evolves to-	
+996	Red V-dramon	-evolves to-	
+997	Red Vegimon	-evolves to-	
+998	Regalecusmon	-evolves to-	
+999	Regulumon	-evolves to-	
+1000	Raihimon	-evolves to-	
+1001	Relemon	-evolves to-	Pokomon
+1002	Renamon	-evolves to-	Kyubimon, Renamon (X-Antibody), Sakuyamon, Youkomon
+1003	Renamon (X-Antibody)	-evolves to-	
+1004	Reppamon	-evolves to-	Tyilinmon
+1005	Reverse Weddinmon	-evolves to-	
+1006	Revolmon	-evolves to-	Beelzebumon + Revolmon, Revolmon + Dorulu Cannon + Starmons, Xros Up Ballistamon (Revolmon)
+1007	Revolmon + Dorulu Cannon + Starmons	-evolves to-	
+1008	Rhino Kabuterimon	-evolves to-	
+1009	Rhinomon	-evolves to-	Rhinomon (X-Antibody)
+1010	Rhinomon (X-Antibody)	-evolves to-	
+1011	Rize Greymon	-evolves to-	Gaioumon, Rize Greymon (X-Antibody), Victory Greymon
+1012	Rize Greymon (X-Antibody)	-evolves to-	
+1013	Rook Chessmon (Black)	-evolves to-	
+1014	Rook Chessmon (White)	-evolves to-	
+1015	Rosemon	-evolves to-	Babamon, Omegamon: Merciful Mode, Rosemon: Burst Mode, Rosemon (X-Antibody)
+1016	Rosemon (X-Antibody)	-evolves to-	
+1017	Rosemon: Burst Mode	-evolves to-	
+1018	Rukamon	-evolves to-	Whamon
+1019	Rust Tyranomon	-evolves to-	
+1020	Ryudamon	-evolves to-	Death-X-DORUgamon, Ginryumon
+1021	Saber Leomon	-evolves to-	Dinotigermon
+1022	Saberdramon	-evolves to-	
+1023	Sagittarimon	-evolves to-	Gravimon Darkness Mode
+1024	Sagomon	-evolves to-	
+1025	Saint Galgomon	-evolves to-	
+1026	Sakumon	-evolves to-	Sakuttomon
+1027	Sakuteki Monitamon	-evolves to-	
+1028	Sakuttomon	-evolves to-	
+1029	Sakuyamon	-evolves to-	Sakuyamon: Miko Mode, Sakuyamon (X-Antibody)
+1030	Sakuyamon: Miko Mode	-evolves to-	
+1031	Sakuyamon (X-Antibody)	-evolves to-	
+1032	Salamandamon	-evolves to-	
+1033	Sand Yanmamon	-evolves to-	
+1034	Sandiramon	-evolves to-	
+1035	Sangloupmon	-evolves to-	Matadrmon
+1036	Sangomon	-evolves to-	
+1037	Santa Agumon	-evolves to-	
+1038	Sanzomon	-evolves to-	
+1039	Savior Hackmon	-evolves to-	Jesmon
+1040	Scorpiomon	-evolves to-	Hi Mugendramon
+1041	Scud Missimon	-evolves to-	
+1042	Scumon	-evolves to-	Etemon
+1043	Scumon Daiou	-evolves to-	
+1044	Seadramon	-evolves to-	Mamemon, Mega Seadramon, Seadramon (X-Antibody)
+1045	Seadramon (X-Antibody)	-evolves to-	Mega Seadramon (X-Antibody)
+1046	Seahomon	-evolves to-	
+1047	Sealsdramon	-evolves to-	Tankdramon
+1048	Searchmon	-evolves to-	
+1049	Sephirothmon	-evolves to-	
+1050	Sepikmon	-evolves to-	
+1051	Seraphimon	-evolves to-	Black Seraphimon, Demon, Omegamon: Merciful Mode
+1052	Sethmon	-evolves to-	Deadly Tuwarmon Hell Mode, Sethmon Wild Mode
+1053	Sethmon Wild Mode	-evolves to-	
+1054	Shademon	-evolves to-	Luminamon, Nene Shademon
+1055	Shademon (Nene Version)	-evolves to-	Moon Millenniumon, Luminamon (Nene Version)
+1056	Shadramon	-evolves to-	
+1057	Shakamon	-evolves to-	
+1058	Shakkoumon	-evolves to-	Vikemon
+1059	Shakomon	-evolves to-	Octmon, Shakomon (X-Antibody)
+1060	Shakomon (X-Antibody)	-evolves to-	
+1061	Shamamon	-evolves to-	Vritramon
+1062	Shawujinmon	-evolves to-	Jumbo Gamemon
+1063	Sheepmon	-evolves to-	
+1064	Shellmon	-evolves to-	
+1065	Shima Unimon	-evolves to-	
+1066	Shine Greymon	-evolves to-	Shine Greymon: Burst Mode, Shine Greymon: Ruin Mode
+1067	Shine Greymon: Ruin Mode	-evolves to-	
+1068	Shine Greymon: Burst Mode	-evolves to-	
+1069	Shonitamon	-evolves to-	
+1070	Shooting Starmon	-evolves to-	
+1071	Shortmon	-evolves to-	Reverse Weddinmon
+1072	ShouCutemon	-evolves to-	
+1073	Shoutmon	-evolves to-	Don Shoutmon, Jiji Shoutmon, Neo Vamdemon Darkness Mode (Shoutmon), Omega Shoutmon, Pawn Shoutmon, Shonitamon, Shou Cutemon, Shoutmon (King Ver.), Shoutmon SH, Shoutmon X2, Shoutmon X2 (Incomplete X4), Shoutmon X3, Shoutmon X4, Shoutmon X4B, Shoutmon X4K, Shoutmon X4S, Shoutmon X5, Shoutmon X5B, Shoutmon X7 Superior Mode, Shoutmon + Dorulu Cannon, Shoutmon + Jet Sparrow, Shoutmon + Star Sword
+1074	Shoutmon (King Ver.)	-evolves to-	Omega Shoutmon, Shoutmon X4, Xros Up Shoutmon (Chibi Kamemon), Xros Up Shoutmon (Pinochimon)
+1075	Shoutmon (Black)	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+1076	Shoutmon (Blue)	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+1077	Shoutmon (Yellow)	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+1078	Shoutmon DX	-evolves to-	Shoutmon X7, Shoutmon X6
+1079	Shoutmon EX6	-evolves to-	Shoutmon X7 Superior Mode
+1080	Shoutmon SH	-evolves to-	
+1081	Shoutmon X2	-evolves to-	Shoutmon X2 Plus M, Shoutmon X4B
+1082	Shoutmon X2 (Incomplete X4)	-evolves to-	
+1083	Shoutmon X2 Plus M	-evolves to-	
+1084	Shoutmon X3	-evolves to-	Shoutmon X3GM, Shoutmon X3SD, Shoutmon X4
+1085	Shoutmon X3GM	-evolves to-	
+1086	Shoutmon X3SD	-evolves to-	
+1087	Shoutmon X4	-evolves to-	Shoutmon X4B, Shoutmon X4S, Shoutmon X5
+1088	Shoutmon X4B	-evolves to-	Shoutmon X5B
+1089	Shoutmon X4K	-evolves to-	
+1090	Shoutmon X4S	-evolves to-	
+1091	Shoutmon X5	-evolves to-	Shoutmon X5 + Skull Greymon, Shoutmon X5S, Shoutmon X7
+1092	Shoutmon X5B	-evolves to-	
+1093	Shoutmon X5S	-evolves to-	
+1094	Shoutmon X6	-evolves to-	
+1095	Shoutmon X7	-evolves to-	
+1096	Shoutmon X7 Superior Mode	-evolves to-	
+1097	Shoutmon + Dorulu Cannon	-evolves to-	
+1098	Shoutmon + Jet Sparrow	-evolves to-	
+1099	Shoutmon + Star Sword	-evolves to-	
+1100	Shurimon	-evolves to-	
+1101	Shutumon	-evolves to-	Jet Silphymon
+1102	Siesamon	-evolves to-	Cerberumon, Siesamon (X-Antibody)
+1103	Siesamon (X-Antibody)	-evolves to-	
+1104	Silphymon	-evolves to-	Valkyrimon
+1105	Sinduramon	-evolves to-	
+1106	Sirenmon	-evolves to-	
+1107	Sistermon Blanc	-evolves to-	Sistermon Blanc (Awaken)
+1108	Sistermon Blanc (Awaken)	-evolves to-	
+1109	Sistermon Ciel	-evolves to-	Sistermon Ciel (Awaken)
+1110	Sistermon Ciel (Awaken)	-evolves to-	
+1111	Sistermon Noir	-evolves to-	Sistermon Noir (Awaken)
+1112	Sistermon Noir (Awaken)	-evolves to-	
+1113	Skull Baluchimon	-evolves to-	
+1114	Skull Greymon	-evolves to-	Chimairamon, Mugendramon, Super Dark Knightmon
+1115	Skull Knightmon	-evolves to-	Dark Knightmon, Grey Knightsmon, Greymon + Skull Knightmon, Shoutmon X3SD, Skull Knightmon: Cavalier Mode
+1116	Skull Knightmon (Red)	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+1117	Skull Knightmon (White)	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+1118	Skull Knightmon: Arrow Mode	-evolves to-	
+1119	Skull Knightmon: Big Axe Mode	-evolves to-	Dark Knightmon
+1120	Skull Knightmon: Cavalier Mode	-evolves to-	Dark Knightmon, Skull Knightmon: Big Axe Mode
+1121	Skull Knightmon: Naginata Mode	-evolves to-	
+1122	Skull Mammon	-evolves to-	Skull Mammon (X-Antibody)
+1123	Skull Mammon (X-Antibody)	-evolves to-	
+1124	Skull Satamon	-evolves to-	Apocalymon, Super Dark Knightmon
+1125	Slash Angemon	-evolves to-	
+1126	Slayerdramon	-evolves to-	Examon
+1127	Sleipmon	-evolves to-	Sleipmon: Burst Mode, Sleipmon (X-Antibody), Ultimate Chaosmon
+1128	Sleipmon (X-Antibody)	-evolves to-	
+1129	Sleipmon: Burst Mode	-evolves to-	
+1130	Snatchmon	-evolves to-	Ragnamon
+1131	Snimon	-evolves to-	
+1132	Snow Goburimon	-evolves to-	
+1133	Solarmon	-evolves to-	Guardromon (Gold)
+1134	Sorcerimon	-evolves to-	
+1135	Soulmon	-evolves to-	
+1136	Soundbirdmon	-evolves to-	
+1137	Spadamon	-evolves to-	Shoutmon X4S, Shoutmon X5S
+1138	Sparrowmon	-evolves to-	Jet Mervamon, Raptor Sparrowmon, Shoutmon X5, Shoutmon X5B, Shoutmon + Jet Sparrow, Sparrowmon AB, Shoutmon X7, Xros Up Arresterdramon
+1139	Sparrowmon AB	-evolves to-	
+1140	Spinomon	-evolves to-	
+1141	Splashmon	-evolves to-	Splashmon Darkness Mode
+1142	Splashmon Darkness Mode	-evolves to-	Grand Generamon, Grand Generamon (Incomplete)
+1143	Starmon	-evolves to-	Starmon (X-Antibody), Superstarmon
+1144	Starmon (X-Antibody)	-evolves to-	
+1145	Starmons	-evolves to-	Beelzebumon + Starmons, Dorulu Copter, Rare Star Sword, Revolmon + Dorulu Cannon + Starmons, Shooting Starmon, Shoutmon SH, Shoutmon X4, Shoutmon X4B, Shoutmon X4K, Shoutmon X4S, Shoutmon X5, Shoutmon X5B, Shoutmon X6, Shoutmon X7, Star Axe, Star Sword, Star Wheel
+1146	Star Axe	-evolves to-	
+1147	Star Sword	-evolves to-	Shoutmon + Star Sword
+1148	Star Wheel	-evolves to-	Shoutmon SH
+1149	Stegomon	-evolves to-	
+1150	Stiffilmon	-evolves to-	Rasenmon, Rasenmon: Fury Mode
+1151	Stingmon	-evolves to-	Dinobeemon, Imperialdramon: Dragon Mode, Paildramon
+1152	Stingmon (Black)	-evolves to-	
+1153	Strabimon	-evolves to-	Wolfmon
+1154	Strikedramon	-evolves to-	Cyberdramon
+1155	Submarimon	-evolves to-	Xros Up Submarimon (Plesiomon)
+1156	Suijinmon	-evolves to-	
+1157	Sunarizamon	-evolves to-	
+1158	Sunflowmon	-evolves to-	Lilamon
+1159	Sunmon	-evolves to-	Coronamon
+1160	Super Dark Knightmon	-evolves to-	
+1161	Superstarmon	-evolves to-	Xros Up Tuwarmon (Superstarmon)
+1162	Surfymon	-evolves to-	
+1163	Susanoomon	-evolves to-	
+1164	Swanmon	-evolves to-	
+1165	Swimmon	-evolves to-	
+1166	Tactimon	-evolves to-	
+1167	Tafa Pandamon	-evolves to-	
+1168	Tailmon	-evolves to-	Angewomon, Butterflamon, Holydramon, Nefertimon, Ofanimon, Ofanimon: Falldown Mode, Silphymon, Tailmon (X-Antibody), Tylomon
+1169	Tailmon (X-Antibody)	-evolves to-	Angewomon (X-Antibody)
+1170	Tanemon	-evolves to-	Palmon, Piyomon
+1171	Tankdramon	-evolves to-	Darkdramon
+1172	Tankmon	-evolves to-	
+1173	Taomon	-evolves to-	Sakuyamon
+1174	Taomon (Silver)	-evolves to-	
+1175	Targetmon	-evolves to-	
+1176	Technodramon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+1177	Tekkamon	-evolves to-	
+1178	Tentomon	-evolves to-	Atlur Kabuterimon (Red), Herakle Kabuterimon, Jiko Chuumon, Kabuterimon
+1179	Terriermon	-evolves to-	Black Galgomon, Galgomon, Rapidmon, Saint Galgomon, Terriermon (X-Antibody)
+1180	Terriermon (X-Antibody)	-evolves to-	
+1181	Terriermon Assistant	-evolves to-	
+1182	Thunderballmon	-evolves to-	Thunderballmon (X-Antibody)
+1183	Thunderballmon (X-Antibody)	-evolves to-	
+1184	Thunderbirmon	-evolves to-	Gravimon Darkness Mode
+1185	Tia Ludomon	-evolves to-	Raiji Ludomon
+1186	Tiger Vespamon	-evolves to-	
+1187	Tinkermon	-evolves to-	
+1188	Titamon	-evolves to-	
+1189	Tobiumon	-evolves to-	
+1190	Tobucatmon	-evolves to-	
+1191	Tocanmon	-evolves to-	
+1192	Togemogumon	-evolves to-	
+1193	Togemon	-evolves to-	Lilimon, Rosemon, Ponchomon, Togemon (X-Antibody)
+1194	Togemon (X-Antibody)	-evolves to-	
+1195	Tokomon	-evolves to-	Patamon, Tokomon (X-Antibody)
+1196	Tokomon (X-Antibody)	-evolves to-	
+1197	Tonosama Gekomon	-evolves to-	
+1198	Tonosama Mamemon	-evolves to-	
+1199	Torikara Ballmon	-evolves to-	Burgamon
+1200	Tortamon	-evolves to-	
+1201	Toy Agumon	-evolves to-	Toy Agumon (Black)
+1202	Toy Agumon (Black)	-evolves to-	
+1203	Trailmon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+1204	Trailmon Angler	-evolves to-	
+1205	Trailmon Ball	-evolves to-	
+1206	Trailmon Battle Form	-evolves to-	
+1207	Trailmon Buffalo	-evolves to-	
+1208	Trailmon C-89	-evolves to-	Trailmon Battle Form
+1209	Trailmon Franken	-evolves to-	
+1210	Trailmon Kettle	-evolves to-	
+1211	Trailmon Mole	-evolves to-	
+1212	Trailmon Raccoon Dog	-evolves to-	
+1213	Trailmon Worm	-evolves to-	
+1214	Trailmon of Darkness	-evolves to-	
+1215	Triceramon	-evolves to-	Triceramon (X-Antibody), Xros Up Astamon
+1216	Triceramon (X-Antibody)	-evolves to-	
+1217	Troopmon	-evolves to-	Mad Leomon: Armed Mode, Tactimon
+1218	Tsubumon	-evolves to-	Upamon
+1219	Tuchidarumon	-evolves to-	
+1220	Tukaimon	-evolves to-	
+1221	Tsumemon	-evolves to-	Keramon
+1222	Tunomon	-evolves to-	Elecmon, Gabumon
+1223	Turuiemon	-evolves to-	Andiramon (Deva)
+1224	Tuskmon	-evolves to-	
+1225	Tuwarmon	-evolves to-	Damemon, Deadly Tuwarmon, Deadly Tuwarmon Hell Mode, Musou Knightmon, Xros Up Tuwarmon (Superstarmon)
+1226	Tyilinmon	-evolves to-	Mitamamon
+1227	Tylomon	-evolves to-	Tylomon (X-Antibody)
+1228	Tylomon (X-Antibody)	-evolves to-	
+1229	Tyranomon	-evolves to-	Master Tyranomon, Metal Tyranomon, Skull Greymon, Tyranomon (X-Antibody)
+1230	Tyranomon (X-Antibody)	-evolves to-	
+1231	Tyrant Kabuterimon	-evolves to-	
+1232	Tyumon	-evolves to-	Tyranomon
+1233	Tyutyumon	-evolves to-	
+1234	Ulforce V-dramon	-evolves to-	Ulforce V-dramon Future Mode, Ulforce V-dramon (X-Antibody)
+1235	Ulforce V-dramon Future Mode	-evolves to-	
+1236	Ulforce V-dramon (X-Antibody)	-evolves to-	
+1237	Ultimate Brachimon	-evolves to-	
+1238	Ultimate Chaosmon	-evolves to-	Zeed Millenniumon
+1239	Umon	-evolves to-	
+1240	Unimon	-evolves to-	
+1241	Upamon	-evolves to-	Armadimon
+1242	Urashimamon	-evolves to-	
+1243	V-dramon	-evolves to-	Aero V-dramon, Red V-dramon
+1244	V-dramon (Black)	-evolves to-	
+1245	V-mon	-evolves to-	Fladramon, Gold V-dramon, Imperialdramon: Dragon Mode, Imperialdramon: Fighter Mode, Imperialdramon: Paladin Mode, Lighdramon, Magnamon, Sagittarimon, Ulforce V-dramon, V-dramon, XV-mon
+1246	Vademon	-evolves to-	Ebemon, Vademon (X-Antibody)
+1247	Vademon (X-Antibody)	-evolves to-	
+1248	Vajramon	-evolves to-	
+1249	Valdurmon	-evolves to-	Chaosmon: Valdur Arm, Ultimate Chaosmon
+1250	Valkyrimon	-evolves to-	
+1251	Valvemon	-evolves to-	
+1252	Vamdemon	-evolves to-	Belial Vamdemon, Vamdemon (X-Antibody), Venom Vamdemon, Voltobautamon
+1253	Vamdemon (X-Antibody)	-evolves to-	
+1254	Vegimon	-evolves to-	Red Vegimon, Vademon
+1255	Velgmon	-evolves to-	Kaiser Leomon
+1256	Venom Vamdemon	-evolves to-	Belial Vamdemon
+1257	Venom Vamdemon Undead	-evolves to-	
+1258	Venusmon	-evolves to-	
+1259	Vermillimon	-evolves to-	
+1260	Victory Greymon	-evolves to-	
+1261	Vikaralamon	-evolves to-	
+1262	Vikemon	-evolves to-	Omegamon: Merciful Mode
+1263	Volcamon	-evolves to-	Pile Volcamon
+1264	Volcanicdramon	-evolves to-	
+1265	Volcdramon	-evolves to-	
+1266	Voltobautamon	-evolves to-	
+1267	Vorvomon	-evolves to-	Lavorvomon, Volcanicdramon
+1268	Vritramon	-evolves to-	Aldamon, Kaiser Greymon
+1269	Vulcanusmon	-evolves to-	
+1270	Wanyamon	-evolves to-	Gaomon
+1271	War Greymon	-evolves to-	Black War Greymon (X-Antibody), Omegamon, Omegamon (X-Antibody), Omegamon Zwart, War Greymon (X-Antibody)
+1272	War Greymon (X-Antibody)	-evolves to-	Omegamon (X-Antibody)
+1273	Waru Monzaemon	-evolves to-	Giga Waru Monzaemon
+1274	Waru Seadramon	-evolves to-	
+1275	Waspmon	-evolves to-	Cannonbeemon
+1276	Weddinmon	-evolves to-	Reverse Weddinmon
+1277	Wendimon	-evolves to-	Andiramon
+1278	Were Garurumon	-evolves to-	Metal Garurumon, Were Garurumon (X-Antibody)
+1279	Were Garurumon (X-Antibody)	-evolves to-	Metal Garurumon (X-Antibody)
+1280	Were Garurumon (Black)	-evolves to-	Metal Garurumon (Black)
+1281	Whamon	-evolves to-	Whamon Perfect
+1282	Whamon Perfect	-evolves to-	Marin Angemon
+1283	White Lopmon	-evolves to-	
+1284	White Skull Knightmon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+1285	Wingdramon	-evolves to-	Slayerdramon
+1286	Wisemon	-evolves to-	Knightmon Wise Sword Mode, Mervamon Wide Hi-Vision Sword
+1287	Witchmon	-evolves to-	Bastemon
+1288	Wizarmon	-evolves to-	Wizarmon (X-Antibody)
+1289	Wizarmon (X-Antibody)	-evolves to-	
+1290	Wolfmon	-evolves to-	Ancient Garurumon, Beowolfmon, Garummon
+1291	Woodmon	-evolves to-	Jyureimon
+1292	Wormmon	-evolves to-	Coatlmon, Hudiemon, Imperialdramon: Fighter Mode, Puchiemon, Shadramon, Stingmon
+1293	XV-mon	-evolves to-	Dinobeemon, Magnamon, Paildramon
+1294	XV-mon (Black)	-evolves to-	
+1295	Xiaomon	-evolves to-	Labramon
+1296	Xros Up Arresterdramon (Astamon)	-evolves to-	
+1297	Xros Up Arresterdramon (Blossomon)	-evolves to-	
+1298	Xros Up Arresterdramon (Dobermon)	-evolves to-	
+1299	Xros Up Arresterdramon (Metal Tyranomon)	-evolves to-	
+1300	Xros Up Arresterdramon (Orgemon)	-evolves to-	
+1301	Xros Up Arresterdramon (Sagomon)	-evolves to-	
+1302	Xros Up Arresterdramon (Sparrowmon)	-evolves to-	
+1303	Xros Up Astamon (Cerberumon)	-evolves to-	
+1304	Xros Up Astamon (Triceramon)	-evolves to-	
+1305	Xros Up Ballistamon (Revolmon)	-evolves to-	
+1306	Xros Up Dorulumon (Pawn Chessmon (White))	-evolves to-	
+1307	Xros Up Gumdramon (Kotemon)	-evolves to-	
+1308	Xros Up Mervamon (Beelzebumon)	-evolves to-	
+1309	Xros Up Omega Shoutmon (Dorulumon)	-evolves to-	
+1310	Xros Up Opossummon (Candmon)	-evolves to-	
+1311	Xros Up Shoutmon (Chibi Kamemon)	-evolves to-	
+1312	Xros Up Shoutmon (Pinochimon)	-evolves to-	
+1313	Xros Up Submarimon (Plesiomon)	-evolves to-	
+1314	Xros Up Tuwarmon (Superstarmon)	-evolves to-	
+1315	Xuanwumon	-evolves to-	Huanglongmon
+1316	Yaamon	-evolves to-	Impmon
+1317	Yakiimon	-evolves to-	
+1318	Yanmamon	-evolves to-	
+1319	Yasyamon	-evolves to-	
+1320	Yatagaramon	-evolves to-	
+1321	Yatagaramon (2006 Anime Version)	-evolves to-	Ravmon
+1322	Yo!Yo!mon	-evolves to-	
+1323	Youkomon	-evolves to-	Doumon
+1324	Yuki Agumon	-evolves to-	
+1325	Yuki Agumon (2006 Anime Version)	-evolves to-	
+1326	Yukidarumon	-evolves to-	
+1327	Yukimi Botamon	-evolves to-	Nyaromon
+1328	Yuramon	-evolves to-	Tanemon
+1329	Z'd Garurumon	-evolves to-	
+1330	Zamielmon	-evolves to-	Grand Generamon, Grand Generamon (Incomplete)
+1331	Zanbamon	-evolves to-	
+1332	Zassoumon	-evolves to-	
+1333	Zeed Millenniumon	-evolves to-	
+1334	Zeke Greymon	-evolves to-	Shoutmon DX, Shoutmon X7, Shoutmon EX6
+1335	Zenimon	-evolves to-	
+1336	Zerimon	-evolves to-	Gummymon
+1337	Zhuqiaomon	-evolves to-	Huanglongmon
+1338	Zombiemon	-evolves to-	Não foram encontradas evoluções corretamente anotadas/Digimon não encontrado.
+1339	Zubaeagermon	-evolves to-	
+1340	Zubamon	-evolves to-	Zubaeagermon
+1341	Zudomon	-evolves to-	Plesiomon, Vikemon
+1342	Zurumon	-evolves to-	

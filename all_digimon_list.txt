@@ -1,0 +1,1342 @@
+1	Aegiochusmon
+2	Aegiochusmon: Blue
+3	Aegiochusmon: Dark
+4	Aegiochusmon: Green
+5	Aegiochusmon: Holy
+6	Aegiomon
+7	Aegisdramon
+8	Aero V-dramon
+9	Agnimon
+10	Agumon
+11	Agumon (X-Antibody)
+12	Agumon (2006 Anime Version)
+13	Agumon (Black)
+14	Agumon (Black) (X-Antibody)
+15	Agumon (Black) (2006 Anime Version)
+16	Agumon -Yuki's Kizuna-
+17	Agumon: Burst Mode
+18	Agumon Hakase
+19	Aircraft Carrier Whamon
+20	Airdramon
+21	Akatorimon
+22	Aldamon
+23	Algomon (Baby I)
+24	Algomon (Baby II)
+25	Algomon (Child)
+26	Algomon (Adult)
+27	Algomon (Perfect)
+28	Algomon (Ultimate)
+29	Allomon
+30	Allomon (X-Antibody)
+31	Alphamon
+32	Alphamon: Ouryuken
+33	Alraumon
+34	Amon
+35	Ancient Beatmon
+36	Ancient Garurumon
+37	Ancient Greymon
+38	Ancient Irismon
+39	Ancient Megatheriumon
+40	Ancient Mermaimon
+41	Ancient Sphinxmon
+42	Ancient Troiamon
+43	Ancient Volcamon
+44	Ancient Wisemon
+45	Andiramon
+46	Andiramon (Deva)
+47	Andromon
+48	Angemon
+49	Angewomon
+50	Angewomon (X-Antibody)
+51	Ankylomon
+52	Anomalocarimon
+53	Anomalocarimon (X-Antibody)
+54	Anubimon
+55	Apocalymon
+56	Apollomon
+57	Apollomon Darkness Mode
+58	Apollomon Whispered
+59	Aquilamon
+60	Arbormon
+61	Archelomon
+62	Archnemon
+63	Arkadimon Baby
+64	Arkadimon Child
+65	Arkadimon Adult
+66	Arkadimon Perfect
+67	Arkadimon Ultimate
+68	Arkadimon Super Ultimate
+69	Armadimon
+70	Armagemon
+71	Armamon
+72	Arresterdramon
+73	Arresterdramon: Superior Mode
+74	Arresterdramon: Superior Mode (Brave Snatcher)
+75	Assaultmon
+76	Astamon
+77	Asuramon
+78	Atamadekachimon
+79	Atlur Ballistamon
+80	Atlur Kabuterimon (Blue)
+81	Atlur Kabuterimon (Red)
+82	Avenge Kidmon
+83	Baalmon
+84	Babamon
+85	Baboongamon
+86	Babydmon
+87	Bacchusmon
+88	Bacchusmon Crapulence Mode
+89	Bagramon
+90	Bagramon Archangel Form
+91	Baihumon
+92	Bakemon
+93	Bacomon
+94	Bakumon
+95	Balli Bastemon
+96	Ballistamon
+97	Ballistamon MC
+98	Ballistamon SR
+99	Bancho Golemon
+100	Bancho Leomon
+101	Bancho Leomon: Burst Mode
+102	Bancho Lilimon
+103	Bancho Mamemon
+104	Bancho Stingmon
+105	Bao Hackmon
+106	Barbamon
+107	Barbamon (X-Antibody)
+108	Baromon
+109	Bastemon
+110	Batterymon
+111	Battle Armament Trailmon
+112	Bearmon
+113	Beel Starmon
+114	Beel Starmon (X-Antibody)
+115	Beelzebumon
+116	Beelzebumon Blast Mode
+117	Beelzebumon (X-Antibody)
+118	Beelzebumon (2010 Anime Version)
+119	Beelzebumon + Revolmon
+120	Beelzebumon + Starmons
+121	Belial Vamdemon
+122	Belphemon Rage Mode
+123	Belphemon Sleep Mode
+124	Belphemon (X-Antibody)
+125	Bemmon
+126	Beowolfmon
+127	Beso Bombmon
+128	Betamon
+129	Betamon (X-Antibody)
+130	Betsumon
+131	Big Mamemon
+132	Bio Coatlmon
+133	Bio Darkdramon
+134	Bio Lotusmon
+135	Bio Spinomon
+136	Bio Stegomon
+137	Bio Thunderbirmon
+138	Birdramon
+139	Bishop Chessmon (Black)
+140	Bishop Chessmon (White)
+141	Bitmon
+142	Black Galgomon
+143	Black Gaogamon
+144	Black Growmon
+145	Black Guilmon
+146	Black King Numemon
+147	Black Mach Gaogamon
+148	Black Megalo Growmon
+149	Black Rapidmon
+150	Black Saint Galgomon
+151	Black Seraphimon
+152	Black Seraphimon (DW3)
+153	Black Shoutmon X7
+154	Black Tailmon
+155	Black War Greymon
+156	Black War Greymon (X-Antibody)
+157	Blade Kuwagamon
+158	Blastmon
+159	Blikmon
+160	Blimpmon
+161	Blitz Greymon
+162	Blitzmon
+163	Blizzarmon
+164	Blossomon
+165	Blucomon
+166	Blue Meramon
+167	Boarmon
+168	Bokomon
+169	Bolgmon
+170	Boltmon
+171	Bomber Nanimon
+172	Bombmon
+173	Bommon
+174	Boogeymon
+175	Botamon
+176	Brachimon
+177	Breakdramon
+178	Bryweludramon
+179	Bubbmon
+180	Budmon
+181	Bullmon
+182	Bun
+183	Buraimon
+184	Burgamon
+185	Burgamon Adult
+186	Burpmon
+187	Bushi Agumon
+188	Butenmon
+189	Butterflamon
+190	Būmon
+191	Calamaramon
+192	Callismon
+193	Candmon
+194	Cannonbeemon
+195	Cannonbeemon (Aircraft Carrier)
+196	Cannondramon
+197	Caprimon
+198	Captain Hookmon
+199	Cardmon C1
+200	Cardmon C2
+201	Cardmon R1
+202	Cardmon R2
+203	Cardmon S1
+204	Cardmon S2
+205	Cardmon U1
+206	Cardmon U2
+207	Catch Mamemon
+208	Caturamon
+209	Centalmon
+210	Cerberumon
+211	Cerberumon (X-Antibody)
+212	Cerberumon Werewolf Mode
+213	Ceresmon
+214	Ceresmon Medium
+215	Chakkumon
+216	Chamelemon
+217	Chaos Dukemon
+218	Chaos Dukemon Core
+219	Chaos Greymon
+220	Chaos Grimmon
+221	Chaos Lord
+222	Chaos Piemon
+223	Chaos Seadramon
+224	Chaosdramon
+225	Chaosdramon (X-Antibody)
+226	Chaosmon
+227	Chaosmon: Valdur Arm
+228	Chapmon
+229	Cheer Galmon
+230	Cherubimon (Vice)
+231	Cherubimon (Vice) (X-Antibody)
+232	Cherubimon (Virtue)
+233	Cherubimon (Virtue) (X-Antibody)
+234	Chibick Sword
+235	Chibi Kamemon
+236	Chibi Kiwimon
+237	Chibickmon
+238	Chibimon
+239	Chicchimon
+240	Chicomon
+241	Chikurimon
+242	Chimairamon
+243	Cho·Hakkaimon
+244	Chocomon
+245	Chokimon
+246	Choromon
+247	Chronomon Destroy Mode
+248	Chronomon Holy Mode
+249	Chrysalimon
+250	Citramon
+251	Clavis Angemon
+252	Clear Agumon
+253	Clockmon
+254	Coatlmon
+255	Cockatrimon
+256	Cocomon
+257	Coelamon
+258	Commandramon
+259	Copymon
+260	Coredramon (Blue)
+261	Coredramon (Green)
+262	Coronamon
+263	Cotsucomon
+264	Craniummon
+265	Craniummon (X-Antibody)
+266	Crescemon
+267	Cres Garurumon
+268	Crossmon
+269	Crys Paledramon
+270	Culumon
+271	Cupimon
+272	Cutemon
+273	Cyberdramon
+274	Cyberdramon (2010 Anime Version)
+275	Cyberdramon (X-Antibody)
+276	Cyclomon
+277	Dagomon
+278	Daipenmon
+279	Damemon
+280	Danmon
+281	Darcmon
+282	Dark Knightmon
+283	Dark Knightmon (X-Antibody)
+284	Dark Knightmon (Bagramon)
+285	Dark Knightmon (Blastmon)
+286	Dark Knightmon (Duskmon)
+287	Dark Knightmon (Gulfmon)
+288	Dark Knightmon (Lilithmon)
+289	Dark Lizamon
+290	Dark Superstarmon
+291	Dark Tyranomon
+292	Dark Tyranomon (X-Antibody)
+293	Dark Volumon
+294	Darkdramon
+295	Darkness Bagramon
+296	Deadly Axemon
+297	Deadly Tuwarmon
+298	Deadly Tuwarmon Hell Mode
+299	Death Airdramon
+300	Death Devimon
+301	Death Meramon
+302	Death Meramon (C'mon Digimon Version)
+303	Death Metal Greymon
+304	Death Tyranomon
+305	Death-X-DORUgamon
+306	Death-X-DORUgoramon
+307	Death-X-DORUguremon
+308	Death-X-mon
+309	Deathmon
+310	Deathmon (Black)
+311	Deathmon (C'mon Digimon Version)
+312	Decker Greymon
+313	Deckerdramon
+314	Deckerdramon Float Mode
+315	Deltamon
+316	Delumon
+317	Demon
+318	Demon Super Ultimate
+319	Demon (X-Antibody)
+320	Depthmon
+321	Destromon
+322	Devidramon
+323	Devimon
+324	Devitamamon
+325	Diablomon
+326	Diablomon (X-Antibody)
+327	Dianamon
+328	Diatrymon
+329	Digitamamon
+330	Digmon
+331	Dinobeemon
+332	Dinohumon
+333	Dinorexmon
+334	Dinotigermon
+335	Dobermon
+336	Dobermon (X-Antibody)
+337	Dodomon
+338	Dogmon
+339	Dokugumon
+340	Dokunemon
+341	Dominimon
+342	Dondokomon
+343	Don Shoutmon
+344	Dorbickmon
+345	Dorbickmon Darkness Mode
+346	Dorbickmon Darkness Mode (Dragon Army)
+347	Dorbickmon Darkness Mode + Flare Lizarmon
+348	Dorimon
+349	DORUgamon
+350	DORUgoramon
+351	DORUguremon
+352	Dorulumon
+353	Dorulumon + Starmons
+354	DORUmon
+355	Dot Agumon
+356	Dot Falcomon
+357	Dot Gaomon
+358	Dot Kamemon
+359	Dot Kudamon
+360	Dot Lalamon
+361	Dot Mirage Gaogamon
+362	Dot Shine Greymon
+363	Doumon
+364	Dracomon
+365	Dracomon (X-Antibody)
+366	Dracomon + Cyberdramon
+367	Dracumon
+368	Drimogemon
+369	Duftmon
+370	Duftmon (X-Antibody)
+371	Duftmon: Leopard Mode
+372	Dukemon
+373	Dukemon: Chaos Mode
+374	Dukemon: Crimson Mode
+375	Dukemon (X-Antibody)
+376	Duramon
+377	Durandamon
+378	Duskmon
+379	Dynasmon
+380	Dynasmon (X-Antibody)
+381	Earthdramon
+382	Ebemon
+383	Ebemon (X-Antibody)
+384	Ebi Burgamon
+385	Ebidramon
+386	Ekakimon
+387	El Doradimon
+388	Elecmon
+389	Elecmon (Violet)
+390	Elephamon
+391	Eosmon (Adult)
+392	Eosmon (Perfect)
+393	Eosmon (Ultimate)
+394	Etemon
+395	Etemon Chaos
+396	Evilmon
+397	Ex-Tyranomon
+398	Examon
+399	Examon (X-Antibody)
+400	Exo Grimmon
+401	Fairimon
+402	Falcomon
+403	Falcomon (2006 Anime Version)
+404	Fangmon
+405	Fantomon
+406	Filmon
+407	Firamon
+408	Fla Wizarmon
+409	Fladramon
+410	Flamon
+411	Flare Lizarmon
+412	Flaremon
+413	Floramon
+414	Flybeemon
+415	Flymon
+416	Footmon
+417	Frimon
+418	Frogmon
+419	Fufumon
+420	Funbeemon
+421	Fugamon
+422	Fujinmon
+423	Fujitsumon
+424	Fuximon
+425	G-Cutemon
+426	Gabumon
+427	Gabumon (X-Antibody)
+428	Gabumon (Black)
+429	Gabumon -Yujo's Kizuna-
+430	Gaiamon
+431	Gaioumon
+432	Galgomon
+433	Ganemon
+434	Ganimon
+435	Ganimon (X-Antibody)
+436	Gankoomon
+437	Gankoomon (X-Antibody)
+438	Gaogamon
+439	Gaomon
+440	Gaossmon
+441	Gargomon
+442	Garummon
+443	Garudamon
+444	Garudamon (X-Antibody)
+445	Garurumon
+446	Garurumon X-Antibody
+447	Garurumon (Black)
+448	Gattai Ancient Volcamon
+449	Gattai Lilithmon
+450	Gawappamon
+451	Gazimon
+452	Gazimon (X-Antibody)
+453	Gekomon
+454	Generamon
+455	Geo Greymon
+456	Gerbemon
+457	Geremon
+458	Gesomon
+459	Gesomon (X-Antibody)
+460	Ghostmon
+461	Giga Breakdramon
+462	Giga Seadramon
+463	Giga Waru Monzaemon
+464	Gigadramon
+465	Gigantic Numemon
+466	Gigasmon
+467	Gigimon
+468	Ginkakumon
+469	Ginkakumon Promote
+470	Ginryumon
+471	Giromon
+472	Gizamon
+473	Gizmon: AT
+474	Gizmon: XT
+475	Gladimon
+476	Goatmon
+477	Goburimon
+478	Goddramon
+479	Goddramon (X-Antibody)
+480	Gogmamon
+481	Gokimon
+482	Gokumon
+483	Gokuwmon
+484	Gold Numemon
+485	Gold V-dramon
+486	Golem Jiji Kamemon
+487	Golemon
+488	Golemon (PS)
+489	Gomamon
+490	Gomamon (X-Antibody)
+491	Gorimon
+492	Gottsumon
+493	Gottsumon (X-Antibody)
+494	Grace Novamon
+495	Grademon
+496	Grademon (Vice)
+497	Gran Kuwagamon
+498	Grand Dracumon
+499	Grand Generamon
+500	Grand Locomon
+501	Grandis Kuwagamon
+502	Grandis Kuwagamon Honey Mode
+503	Grappu Leomon
+504	Gravimon
+505	Gravimon Darkness Mode
+506	Grey Knightsmon
+507	Greymon
+508	Greymon (X-Antibody)
+509	Greymon (2010 Anime Version)
+510	Greymon (Ash)
+511	Greymon (Blue)
+512	Greymon (Orange)
+513	Greymon + Skull Knightmon
+514	Griffomon
+515	Grimmon
+516	Grottomon
+517	Groundramon
+518	Growmon
+519	Growmon (X-Antibody)
+520	Growmon (Orange)
+521	Gryzmon
+522	Guardromon
+523	Guardromon (Gold)
+524	Gusokumon
+525	Guidemon
+526	Guilmon
+527	Guilmon (X-Antibody)
+528	Gulfmon
+529	Gumdramon
+530	Gummymon
+531	Gundramon
+532	Gururumon
+533	Guumon
+534	Hackmon
+535	Hagurumon
+536	Hagurumon (X-Antibody)
+537	Hangyomon
+538	Hanumon
+539	Harpymon
+540	Hawkmon
+541	Heavy Leomon
+542	Herakle Kabuterimon
+543	Herakle Kabuterimon (X-Antibody)
+544	Herissmon
+545	Hermmon
+546	Hexeblaumon
+547	Hi Andromon
+548	Hi Mugendramon
+549	Hi-Vision Monitamon
+550	Hippogriffomon
+551	Hisyaryumon
+552	Holsmon
+553	Holy Angemon
+554	Holy Angemon: Priest Mode
+555	Holy Digitamamon
+556	Holydramon
+557	Holydramon (X-Antibody)
+558	Honeybeemon
+559	Hookmon
+560	Hopmon
+561	Hououmon
+562	Hououmon (X-Antibody)
+563	Huanglongmon
+564	Hubmon
+565	Hudiemon
+566	Huntermon
+567	Hustle Nanimon
+568	Hyougamon
+569	Hyokomon
+570	Ice Devimon
+571	Ice Devimon Enhancement Absorbent
+572	Ice Devimon Daipenmon Enhancement Absorbent
+573	Icemon
+574	Igamon
+575	Iguneetmon
+576	Ikkakumon
+577	Imperialdramon
+578	Imperialdramon (Black)
+579	Imperialdramon Fighter Mode
+580	Imperialdramon Fighter Mode (Black)
+581	Imperialdramon Paladin Mode
+582	Impmon
+583	Impmon (X-Antibody)
+584	Indaramon
+585	Infermon
+586	Insekimon
+587	Jäger Dorulumon
+588	Jazamon
+589	Jazardmon
+590	Jazarichmon
+591	Jesmon
+592	Jesmon (X-Antibody)
+593	Jesmon GX
+594	Jet Mervamon
+595	Jet Silphymon
+596	Jewelbeemon
+597	Jijimon
+598	Jiji Shoutmon
+599	Jiko Chuumon
+600	Jokermon
+601	Jumbo Gamemon
+602	Jungle Mojyamon
+603	Junomon
+604	Junomon: Hysteric Mode
+605	Jupitermon
+606	Jupitermon: Wrath Mode
+607	Justimon (X-Antibody)
+608	Justimon Accel Arm
+609	Justimon Blitz Arm
+610	Justimon Critical Arm
+611	Jyagamon
+612	Jyarimon
+613	Jyureimon
+614	Kabukimon
+615	Kabuterimon
+616	Kaiser Greymon
+617	Kaiser Leomon
+618	Kakkinmon
+619	Kamemon
+620	Kandoushichaundamon
+621	Kangalmon
+622	Karatenmon
+623	Karatuki Numemon
+624	Kenkimon
+625	Keramon
+626	Keramon (X-Antibody)
+627	Ketomon
+628	Kiimon
+629	King Chessmon
+630	King Etemon
+631	King Whamon
+632	Kinkakumon
+633	Kita Kitsunemon
+634	Kiwimon
+635	Knight Chessmon (Black)
+636	Knight Chessmon (White)
+637	Knightmon
+638	Knightmon Wise Sword Mode
+639	Kodokugumon
+640	Koemon
+641	Kohagurumon
+642	Kokabuterimon
+643	Kokuwamon
+644	Kokuwamon (X-Antibody)
+645	Kongoumon
+646	Koromon
+647	Kotemon
+648	Kougamon
+649	Kozenimon
+650	Kudamon
+651	Kudamon (2006 Anime Version)
+652	Kumbhiramon
+653	Kunemon
+654	Kuramon
+655	Kuwagamon
+656	Kuwagamon (X-Antibody)
+657	Kuzuhamon
+658	Kuzuhamon: Miko Mode
+659	Kyaromon
+660	Kyokyomon
+661	Kyubimon
+662	Kyubimon (Silver)
+663	Kyukanchoumon
+664	Kyukimon
+665	Labramon
+666	Lady Devimon
+667	Lady Devimon (X-Antibody)
+668	Lalamon
+669	Lampmon
+670	Lavorvomon
+671	Lavogaritamon
+672	Leafmon
+673	Lekismon
+674	Leomon
+675	Leomon (X-Antibody)
+676	Leviamon
+677	Leviamon (X-Antibody)
+678	Liamon
+679	Lighdramon
+680	Lilamon
+681	Lilimon
+682	Lilimon (X-Antibody)
+683	Lilithmon
+684	Lilithmon (X-Antibody)
+685	Linkmon
+686	Liollmon
+687	Loader Liomon
+688	Locomon
+689	Lopmon
+690	Lopmon (X-Antibody)
+691	Lord Knightmon
+692	Lord Knightmon (X-Antibody)
+693	Lotusmon
+694	Lucemon
+695	Lucemon Falldown Mode
+696	Lucemon Larva
+697	Lucemon: Satan Mode
+698	Lucemon (X-Antibody)
+699	Ludomon
+700	Luminamon
+701	Luminamon (Nene Version)
+702	Lunamon
+703	Lykamon
+704	Lynxmon
+705	Löwemon
+706	Mach Gaogamon
+707	Mach Leomon
+708	Mad Leomon
+709	Mad Leomon (Final Mode)
+710	Mad Leomon (Orochi Mode)
+711	Mad Leomon: Armed Mode
+712	Magna Garurumon
+713	Magna Kidmon
+714	Magnamon
+715	Magnamon (X-Antibody)
+716	Mail Birdramon
+717	Mail Birdramon + Golemon
+718	Maildramon
+719	Majiramon
+720	Majuu Lilithmon
+721	Makuramon
+722	Mamemon
+723	Mamemon (X-Antibody)
+724	Mametyramon
+725	Mammon
+726	Mammon (X-Antibody)
+727	Manbomon
+728	Mantaraymon
+729	Mantaraymon (X-Antibody)
+730	Marin Angemon
+731	Marin Chimairamon
+732	Marin Devimon
+733	Marsmon
+734	Mastemon
+735	Master Tyranomon
+736	Master V-dramon
+737	Matadrmon
+738	Mechanorimon
+739	Medieval Dukemon
+740	Mega Black Shoutmon X7
+741	Mega Dark Knightmon
+742	Mega Darkness Bagramon
+743	Mega Decker Greymon
+744	Mega Gran Kuwagamon
+745	Mega Muso Knightmon
+746	Mega Seadramon
+747	Mega Seadramon (X-Antibody)
+748	Megadramon
+749	Megalo Growmon
+750	Megalo Growmon (X-Antibody)
+751	Megalo Growmon (Data)
+752	Megidramon
+753	Megidramon (X-Antibody)
+754	Meicrackmon
+755	Meicrackmon Vicious Mode
+756	Meicoomon
+757	Meicoomon's Unnamed Baby Form
+758	Meicoomon's Unnamed Child Form
+759	Mephismon
+760	Mephismon (X-Antibody)
+761	Meramon
+762	Meramon (X-Antibody)
+763	Mercuremon
+764	Mercurymon
+765	Mermaimon
+766	Mervamon
+767	Mervamon Wide Hi-Vision Sword
+768	Metal Etemon
+769	Metal Fantomon
+770	Metal Garurumon
+771	Metal Garurumon (X-Antibody)
+772	Metal Garurumon (Black)
+773	Metal Greymon
+774	Metal Greymon (X-Antibody)
+775	Metal Greymon (2010 Anime Version)
+776	Metal Greymon (Virus)
+777	Metal Greymon (Virus) (X-Antibody)
+778	Metal Greymon + Cyber Launcher
+779	Metal Mamemon
+780	Metal Mamemon (X-Antibody)
+781	Metal Piranimon
+782	Metal Seadramon
+783	Metal Tyranomon
+784	Metal Tyranomon (X-Antibody)
+785	Metallicdramon
+786	Metallife Kuwagamon
+787	Metamormon
+788	Mihiramon
+789	Mikemon
+790	Millenniumon
+791	Minervamon
+792	Minervamon (X-Antibody)
+793	Minidekachimon
+794	Minomon
+795	Minotaurmon
+796	Minotaurmon Adult
+797	Mirage Gaogamon
+798	Mirage Gaogamon: Burst Mode
+799	Mirror Ballmon
+800	Missimon
+801	Mistymon
+802	Mitamamon
+803	Mochimon
+804	Modoki Betamon
+805	Mojyamon
+806	Mokumon
+807	Monimon
+808	Monitamon
+809	Monochromon
+810	Monochromon (X-Antibody)
+811	Monodramon
+812	Monzaemon
+813	Monzaemon (X-Antibody)
+814	Moon=Millenniumon
+815	Moonmon
+816	Moosemon
+817	Mori Shellmon
+818	Morphomon
+819	Mothmon
+820	Muchomon
+821	Mugendramon
+822	Mummymon
+823	Murmukusmon
+824	Mush-Upped Mach Leomon
+825	Mushmon
+826	Musou Knightmon
+827	Musyamon
+828	Nanimon
+829	Nanomon
+830	Neamon
+831	Nefertimon
+832	Nefertimon (X-Antibody)
+833	Neo Devimon
+834	Neo Vamdemon
+835	Neo Vamdemon + Devimon + Lady Devimon
+836	Neo Vamdemon Darkness Mode
+837	Neo Vamdemon Darkness Mode + Shoutmon
+838	Neptunemon
+839	Nikkorimon
+840	Nise Agumon Hakase
+841	Nise Drimogemon
+842	Noble Pumpmon
+843	Nohemon
+844	Numemon
+845	Numemon (X-Antibody)
+846	Nyaromon
+847	Nyokimon
+848	Ochi Musyamon
+849	Octmon
+850	Ofanimon
+851	Ofanimon (X-Antibody)
+852	Ofanimon Core
+853	Ofanimon: Falldown Mode
+854	Ofanimon: Falldown Mode (X-Antibody)
+855	Ogudomon
+856	Ogudomon (X-Antibody)
+857	Ohakadamon
+858	Olegmon
+859	Omedamon
+860	Omega Armamon BM
+861	Omega Shoutmon
+862	Omega Shoutmon (X-Antibody)
+863	Omegamon
+864	Omegamon Alter-B
+865	Omegamon Alter-S
+866	Omegamon (X-Antibody)
+867	Omegamon Zwart D
+868	Omegamon Zwart
+869	Omegamon: Merciful Mode
+870	Omekamon
+871	Ookuwamon
+872	Ookuwamon X-Antibody
+873	Opossummon
+874	Orcamon
+875	Ordinemon
+876	Orgemon
+877	Orgemon (X-Antibody)
+878	Ornismon
+879	Orochimon
+880	Otamamon
+881	Otamamon (X-Antibody)
+882	Otamamon (Red)
+883	Ouryumon
+884	Owlmon
+885	Paamon
+886	Pafumon
+887	Pagumon
+888	Paildramon
+889	Pajramon
+890	Pala Pandamon
+891	Paledramon
+892	Palmon
+893	Palmon (X-Antibody)
+894	Panbachimon
+895	Pandamon
+896	Pandamon (2004 Manga Version)
+897	Panimon
+898	Panjyamon
+899	Panjyamon (X-Antibody)
+900	Paomon
+901	Parallelmon
+902	Parasimon
+903	Parrotmon
+904	Patamon
+905	Pawn Chessmon (Black)
+906	Pawn Chessmon (White)
+907	Pawn Gaossmon
+908	Pawn Shoutmon
+909	Peacockmon
+910	Peckmon
+911	Pegasmon
+912	Pegasmon (X-Antibody)
+913	Penmon
+914	Petaldramon
+915	Petermon
+916	Peti Meramon
+917	Petit Mamon
+918	Petitmon
+919	Pharaohmon
+920	Phascomon
+921	Phelesmon
+922	Piccolomon
+923	Pickmon
+924	Pickmons Slingshot
+925	Pico Devimon
+926	Pidmon
+927	Piemon
+928	Pile Volcamon
+929	Pilomon
+930	Pinamon
+931	Pinochimon
+932	Pipimon
+933	Pipismon
+934	Piranimon
+935	Pitchmon
+936	Piyomon
+937	Platinum Numemon
+938	Platinum Scumon
+939	Plesiomon
+940	Plesiomon (X-Antibody)
+941	Plotmon
+942	Plotmon (X-Antibody)
+943	Plutomon
+944	Pokomon
+945	Ponchomon
+946	Popomon
+947	Porcupamon
+948	Poromon
+949	Poyomon
+950	Prairiemon
+951	Prince Mamemon
+952	Prince Mamemon (X-Antibody)
+953	Proto Gizmon
+954	Psychemon
+955	Pteranomon
+956	Pteranomon (X-Antibody)
+957	Pucchiemon
+958	Pucchiemon (Green)
+959	Pukamon
+960	Pukumon
+961	Pumpmon
+962	Punch Narabimon
+963	Punimon
+964	Pupumon
+965	Puroromon
+966	Pururumon
+967	Pusumon
+968	Pusurimon
+969	Puttimon
+970	Puwamon
+971	Pyocomon
+972	Qinglongmon
+973	Quartzmon
+974	Queen Chessmon
+975	Rafflesimon
+976	Ragna Lordmon
+977	Ragnamon
+978	Raguelmon
+979	Raidenmon
+980	Raiji Ludomon
+981	Raijinmon
+982	Rampage Greymon
+983	Ranamon
+984	Rapidmon (X-Antibody)
+985	Rapidmon Armor
+986	Rapidmon Perfect
+987	Raptor Sparrowmon
+988	Raptordramon
+989	Raremon
+990	Rare Star Sword
+991	Rasielmon
+992	Rasenmon
+993	Rasenmon: Fury Mode
+994	Ravmon
+995	Ravmon: Burst Mode
+996	Red V-dramon
+997	Red Vegimon
+998	Regalecusmon
+999	Regulumon
+1000	Raihimon
+1001	Relemon
+1002	Renamon
+1003	Renamon (X-Antibody)
+1004	Reppamon
+1005	Reverse Weddinmon
+1006	Revolmon
+1007	Revolmon + Dorulu Cannon + Starmons
+1008	Rhino Kabuterimon
+1009	Rhinomon
+1010	Rhinomon (X-Antibody)
+1011	Rize Greymon
+1012	Rize Greymon (X-Antibody)
+1013	Rook Chessmon (Black)
+1014	Rook Chessmon (White)
+1015	Rosemon
+1016	Rosemon (X-Antibody)
+1017	Rosemon: Burst Mode
+1018	Rukamon
+1019	Rust Tyranomon
+1020	Ryudamon
+1021	Saber Leomon
+1022	Saberdramon
+1023	Sagittarimon
+1024	Sagomon
+1025	Saint Galgomon
+1026	Sakumon
+1027	Sakuteki Monitamon
+1028	Sakuttomon
+1029	Sakuyamon
+1030	Sakuyamon: Miko Mode
+1031	Sakuyamon (X-Antibody)
+1032	Salamandamon
+1033	Sand Yanmamon
+1034	Sandiramon
+1035	Sangloupmon
+1036	Sangomon
+1037	Santa Agumon
+1038	Sanzomon
+1039	Savior Hackmon
+1040	Scorpiomon
+1041	Scud Missimon
+1042	Scumon
+1043	Scumon Daiou
+1044	Seadramon
+1045	Seadramon (X-Antibody)
+1046	Seahomon
+1047	Sealsdramon
+1048	Searchmon
+1049	Sephirothmon
+1050	Sepikmon
+1051	Seraphimon
+1052	Sethmon
+1053	Sethmon Wild Mode
+1054	Shademon
+1055	Shademon (Nene Version)
+1056	Shadramon
+1057	Shakamon
+1058	Shakkoumon
+1059	Shakomon
+1060	Shakomon (X-Antibody)
+1061	Shamamon
+1062	Shawujinmon
+1063	Sheepmon
+1064	Shellmon
+1065	Shima Unimon
+1066	Shine Greymon
+1067	Shine Greymon: Ruin Mode
+1068	Shine Greymon: Burst Mode
+1069	Shonitamon
+1070	Shooting Starmon
+1071	Shortmon
+1072	ShouCutemon
+1073	Shoutmon
+1074	Shoutmon (King Ver.)
+1075	Shoutmon (Black)
+1076	Shoutmon (Blue)
+1077	Shoutmon (Yellow)
+1078	Shoutmon DX
+1079	Shoutmon EX6
+1080	Shoutmon SH
+1081	Shoutmon X2
+1082	Shoutmon X2 (Incomplete X4)
+1083	Shoutmon X2 Plus M
+1084	Shoutmon X3
+1085	Shoutmon X3GM
+1086	Shoutmon X3SD
+1087	Shoutmon X4
+1088	Shoutmon X4B
+1089	Shoutmon X4K
+1090	Shoutmon X4S
+1091	Shoutmon X5
+1092	Shoutmon X5B
+1093	Shoutmon X5S
+1094	Shoutmon X6
+1095	Shoutmon X7
+1096	Shoutmon X7 Superior Mode
+1097	Shoutmon + Dorulu Cannon
+1098	Shoutmon + Jet Sparrow
+1099	Shoutmon + Star Sword
+1100	Shurimon
+1101	Shutumon
+1102	Siesamon
+1103	Siesamon (X-Antibody)
+1104	Silphymon
+1105	Sinduramon
+1106	Sirenmon
+1107	Sistermon Blanc
+1108	Sistermon Blanc (Awaken)
+1109	Sistermon Ciel
+1110	Sistermon Ciel (Awaken)
+1111	Sistermon Noir
+1112	Sistermon Noir (Awaken)
+1113	Skull Baluchimon
+1114	Skull Greymon
+1115	Skull Knightmon
+1116	Skull Knightmon (Red)
+1117	Skull Knightmon (White)
+1118	Skull Knightmon: Arrow Mode
+1119	Skull Knightmon: Big Axe Mode
+1120	Skull Knightmon: Cavalier Mode
+1121	Skull Knightmon: Naginata Mode
+1122	Skull Mammon
+1123	Skull Mammon (X-Antibody)
+1124	Skull Satamon
+1125	Slash Angemon
+1126	Slayerdramon
+1127	Sleipmon
+1128	Sleipmon (X-Antibody)
+1129	Sleipmon: Burst Mode
+1130	Snatchmon
+1131	Snimon
+1132	Snow Goburimon
+1133	Solarmon
+1134	Sorcerimon
+1135	Soulmon
+1136	Soundbirdmon
+1137	Spadamon
+1138	Sparrowmon
+1139	Sparrowmon AB
+1140	Spinomon
+1141	Splashmon
+1142	Splashmon Darkness Mode
+1143	Starmon
+1144	Starmon (X-Antibody)
+1145	Starmons
+1146	Star Axe
+1147	Star Sword
+1148	Star Wheel
+1149	Stegomon
+1150	Stiffilmon
+1151	Stingmon
+1152	Stingmon (Black)
+1153	Strabimon
+1154	Strikedramon
+1155	Submarimon
+1156	Suijinmon
+1157	Sunarizamon
+1158	Sunflowmon
+1159	Sunmon
+1160	Super Dark Knightmon
+1161	Superstarmon
+1162	Surfymon
+1163	Susanoomon
+1164	Swanmon
+1165	Swimmon
+1166	Tactimon
+1167	Tafa Pandamon
+1168	Tailmon
+1169	Tailmon (X-Antibody)
+1170	Tanemon
+1171	Tankdramon
+1172	Tankmon
+1173	Taomon
+1174	Taomon (Silver)
+1175	Targetmon
+1176	Technodramon
+1177	Tekkamon
+1178	Tentomon
+1179	Terriermon
+1180	Terriermon (X-Antibody)
+1181	Terriermon Assistant
+1182	Thunderballmon
+1183	Thunderballmon (X-Antibody)
+1184	Thunderbirmon
+1185	Tia Ludomon
+1186	Tiger Vespamon
+1187	Tinkermon
+1188	Titamon
+1189	Tobiumon
+1190	Tobucatmon
+1191	Tocanmon
+1192	Togemogumon
+1193	Togemon
+1194	Togemon (X-Antibody)
+1195	Tokomon
+1196	Tokomon (X-Antibody)
+1197	Tonosama Gekomon
+1198	Tonosama Mamemon
+1199	Torikara Ballmon
+1200	Tortamon
+1201	Toy Agumon
+1202	Toy Agumon (Black)
+1203	Trailmon
+1204	Trailmon Angler
+1205	Trailmon Ball
+1206	Trailmon Battle Form
+1207	Trailmon Buffalo
+1208	Trailmon C-89
+1209	Trailmon Franken
+1210	Trailmon Kettle
+1211	Trailmon Mole
+1212	Trailmon Raccoon Dog
+1213	Trailmon Worm
+1214	Trailmon of Darkness
+1215	Triceramon
+1216	Triceramon (X-Antibody)
+1217	Troopmon
+1218	Tsubumon
+1219	Tuchidarumon
+1220	Tukaimon
+1221	Tsumemon
+1222	Tunomon
+1223	Turuiemon
+1224	Tuskmon
+1225	Tuwarmon
+1226	Tyilinmon
+1227	Tylomon
+1228	Tylomon (X-Antibody)
+1229	Tyranomon
+1230	Tyranomon (X-Antibody)
+1231	Tyrant Kabuterimon
+1232	Tyumon
+1233	Tyutyumon
+1234	Ulforce V-dramon
+1235	Ulforce V-dramon Future Mode
+1236	Ulforce V-dramon (X-Antibody)
+1237	Ultimate Brachimon
+1238	Ultimate Chaosmon
+1239	Umon
+1240	Unimon
+1241	Upamon
+1242	Urashimamon
+1243	V-dramon
+1244	V-dramon (Black)
+1245	V-mon
+1246	Vademon
+1247	Vademon (X-Antibody)
+1248	Vajramon
+1249	Valdurmon
+1250	Valkyrimon
+1251	Valvemon
+1252	Vamdemon
+1253	Vamdemon (X-Antibody)
+1254	Vegimon
+1255	Velgmon
+1256	Venom Vamdemon
+1257	Venom Vamdemon Undead
+1258	Venusmon
+1259	Vermillimon
+1260	Victory Greymon
+1261	Vikaralamon
+1262	Vikemon
+1263	Volcamon
+1264	Volcanicdramon
+1265	Volcdramon
+1266	Voltobautamon
+1267	Vorvomon
+1268	Vritramon
+1269	Vulcanusmon
+1270	Wanyamon
+1271	War Greymon
+1272	War Greymon (X-Antibody)
+1273	Waru Monzaemon
+1274	Waru Seadramon
+1275	Waspmon
+1276	Weddinmon
+1277	Wendimon
+1278	Were Garurumon
+1279	Were Garurumon (X-Antibody)
+1280	Were Garurumon (Black)
+1281	Whamon
+1282	Whamon Perfect
+1283	White Lopmon
+1284	White Skull Knightmon
+1285	Wingdramon
+1286	Wisemon
+1287	Witchmon
+1288	Wizarmon
+1289	Wizarmon (X-Antibody)
+1290	Wolfmon
+1291	Woodmon
+1292	Wormmon
+1293	XV-mon
+1294	XV-mon (Black)
+1295	Xiaomon
+1296	Xros Up Arresterdramon (Astamon)
+1297	Xros Up Arresterdramon (Blossomon)
+1298	Xros Up Arresterdramon (Dobermon)
+1299	Xros Up Arresterdramon (Metal Tyranomon)
+1300	Xros Up Arresterdramon (Orgemon)
+1301	Xros Up Arresterdramon (Sagomon)
+1302	Xros Up Arresterdramon (Sparrowmon)
+1303	Xros Up Astamon (Cerberumon)
+1304	Xros Up Astamon (Triceramon)
+1305	Xros Up Ballistamon (Revolmon)
+1306	Xros Up Dorulumon (Pawn Chessmon (White))
+1307	Xros Up Gumdramon (Kotemon)
+1308	Xros Up Mervamon (Beelzebumon)
+1309	Xros Up Omega Shoutmon (Dorulumon)
+1310	Xros Up Opossummon (Candmon)
+1311	Xros Up Shoutmon (Chibi Kamemon)
+1312	Xros Up Shoutmon (Pinochimon)
+1313	Xros Up Submarimon (Plesiomon)
+1314	Xros Up Tuwarmon (Superstarmon)
+1315	Xuanwumon
+1316	Yaamon
+1317	Yakiimon
+1318	Yanmamon
+1319	Yasyamon
+1320	Yatagaramon
+1321	Yatagaramon (2006 Anime Version)
+1322	Yo!Yo!mon
+1323	Youkomon
+1324	Yuki Agumon
+1325	Yuki Agumon (2006 Anime Version)
+1326	Yukidarumon
+1327	Yukimi Botamon
+1328	Yuramon
+1329	Z'd Garurumon
+1330	Zamielmon
+1331	Zanbamon
+1332	Zassoumon
+1333	Zeed Millenniumon
+1334	Zeke Greymon
+1335	Zenimon
+1336	Zerimon
+1337	Zhuqiaomon
+1338	Zombiemon
+1339	Zubaeagermon
+1340	Zubamon
+1341	Zudomon
+1342	Zurumon
