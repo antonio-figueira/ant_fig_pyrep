@@ -1,0 +1,18 @@
+largest nodes degree	[('Shoutmon', 22), ('Ballistamon', 19), ('Starmons', 18), ('Dorulumon', 16), ('V-mon', 12), ('Susanoomon', 11), ('Agumon', 10), ('Arresterdramon', 10), ('Rosemon', 10), ('Dark Knightmon', 10)]
+
+smallest nodes degree	[('Aegiochusmon', 1), ('Aegiochusmon: Blue', 1), ('Aegiochusmon: Dark', 1), ('Aegiochusmon: Green', 1), ('Aegisdramon', 1), ('Ancient Greymon', 1), ("Agumon -Yuki's Kizuna-", 1), ('Omekamon', 1), ('Agumon: Burst Mode', 1), ('Agumon (Black) (X-Antibody)', 1)]
+
+largest in centrality	[('Susanoomon', 0.0079), ('Shoutmon X5B', 0.0058), ('Shoutmon X7', 0.0058), ('G-Cutemon', 0.0058), ('Deadly Tuwarmon Hell Mode', 0.0058), ('Zeed Millenniumon', 0.005), ('Grand Generamon', 0.005), ('Shoutmon X4B', 0.005), ('Ogudomon', 0.005), ('Ogudomon X-Antibody', 0.005)]
+smallest in centrality	[('Aegiochusmon', 0.00072), ('Aegiochusmon: Blue', 0.00072), ('Aegiochusmon: Dark', 0.00072), ('Aegiochusmon: Green', 0.00072), ('Aegiochusmon: Holy', 0.00072), ('Aegisdramon', 0.00072), ('Aero V-dramon', 0.00072), ('Agnimon', 0.00072), ('Ancient Greymon', 0.00072), ('Agumon', 0.00072)]
+
+largest out centrality	[('Shoutmon', 0.0158), ('Ballistamon', 0.013), ('Starmons', 0.0122), ('Dorulumon', 0.0115), ('V-mon', 0.0079), ('Agumon', 0.0065), ('Arresterdramon', 0.0065), ('Tailmon', 0.0065), ('Sparrowmon', 0.0058), ('Lopmon', 0.005)]
+smallest out centrality	[('Aegiochusmon: Holy', 0.00072), ('Aero V-dramon', 0.00072), ('Greymon (X-Antibody)', 0.00072), ('Geo Greymon', 0.00072), ('Greymon (Blue)', 0.00072), ('Chimairamon', 0.00072), ('Kaiser Greymon', 0.00072), ('Algomon (Baby I)', 0.00072), ('Algomon (Baby II)', 0.00072), ('Algomon (Child)', 0.00072)]
+
+largest all centrality	[('Shoutmon', 0.0158), ('Ballistamon', 0.0137), ('Starmons', 0.013), ('Dorulumon', 0.0115), ('V-mon', 0.0086), ('Susanoomon', 0.0079), ('Agumon', 0.0072), ('Arresterdramon', 0.0072), ('Rosemon', 0.0072), ('Dark Knightmon', 0.0072)]
+smallest all centrality	[('Aegiochusmon', 0.00072), ('Aegiochusmon: Blue', 0.00072), ('Aegiochusmon: Dark', 0.00072), ('Aegiochusmon: Green', 0.00072), ('Aegisdramon', 0.00072), ('Ancient Greymon', 0.00072), ('Agumon -Yuki s Kizuna-', 0.00072), ('Omekamon', 0.00072), ('Agumon: Burst Mode', 0.00072), ('Agumon (Black) (X-Antibody)', 0.00072)]
+
+largest betweenness	[('Mugendramon', 0.0001), ('Tailmon', 0.0), ('Ofanimon', 0.0), ('Meramon', 0.0), ('Agumon', 0.0), ('Lilithmon', 0.0), ('Plotmon', 0.0), ('Millenniumon', 0.0), ('Beelzebumon', 0.0), ('Greymon', 0.0)]
+smallest betweenness	[('Lilimon (X-Antibody)', 0.0), ('Kaiser Greymon', 0.0), ('Ancient Beatmon', 0.0), ('Ancient Irismon', 0.0), ('Ancient Megatheriumon', 0.0), ('Ancient Mermaimon', 0.0), ('Ancient Troiamon', 0.0), ('Ancient Wisemon', 0.0), ('Bao Hackmon', 0.0), ('Barbamon (X-Antibody)', 0.0)]
+
+largest closeness	[('Omegamon: Merciful Mode', 0.0184), ('Zeed Millenniumon', 0.017), ('Susanoomon', 0.0107), ('Ogudomon', 0.0094), ('Ogudomon X-Antibody', 0.0094), ('Ogudomon (X-Antibody)', 0.0094), ('Millenniumon', 0.0077), ('Shoutmon X5B', 0.0076), ('Omegamon Zwart', 0.0075), ('Shoutmon X7', 0.0073)]
+smallest closeness	[('Aegiochusmon', 0.00072), ('Aegiochusmon: Blue', 0.00072), ('Aegiochusmon: Dark', 0.00072), ('Aegiochusmon: Green', 0.00072), ('Aegiochusmon: Holy', 0.00072), ('Agnimon', 0.00072), ('Agumon (Black) (X-Antibody)', 0.00072), ('Dark Tyranomon', 0.00072), ('Greymon (Blue)', 0.00072), ('Airdramon', 0.00072)]

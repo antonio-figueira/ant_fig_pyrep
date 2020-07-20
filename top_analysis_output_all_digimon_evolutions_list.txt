@@ -1,0 +1,18 @@
+largest nodes degree	[('Leomon', 124), ('Numemon', 123), ('Megadramon', 118), ('Piccolomon', 109), ('Garurumon', 107), ('Greymon', 105), ('Aero V-dramon', 102), ('Scumon', 102), ('Pumpmon', 100), ('Were Garurumon', 100)]
+
+smallest nodes degree	[('Agumon: Burst Mode', 1), ('Algomon (Baby I)', 1), ('Ghosmon', 1), ('Imperialdramon Dragon Mode', 1), ('Venusmon', 1), ('Arkadimon Super Ultimate', 1), ('Armamon', 1), ('Arresterdramon Superior Mode', 1), ('Xros Up Arresterdramon (Sparrowmon)', 1), ('Xros Up Arresterdramon (Blossomon)', 1)]
+
+largest in centrality	[('Piccolomon', 0.062), ('Megadramon', 0.0613), ('Maildramon', 0.0593), ('Pumpmon', 0.0586), ('Hangyomon', 0.0565), ('Aero V-dramon', 0.0558), ('Big Mamemon', 0.0558), ('Asuramon', 0.0517), ('Cyberdramon', 0.051), ('Etemon', 0.0496)]
+smallest in centrality	[('Aegiochusmon', 0.00069), ('Aegiochusmon: Blue', 0.00069), ('Aegiochusmon: Dark', 0.00069), ('Aegiochusmon: Green', 0.00069), ('Aegiochusmon: Holy', 0.00069), ('Aegiomon', 0.00069), ('Agumon: Burst Mode', 0.00069), ('Algomon (Baby II)', 0.00069), ('Algomon (Child)', 0.00069), ('Ghosmon', 0.00069)]
+
+largest out centrality	[('Gabumon', 0.0627), ('Leomon', 0.0606), ('Patamon', 0.0551), ('Agumon', 0.0538), ('Garurumon', 0.0524), ('V-mon', 0.0503), ('Piyomon', 0.0489), ('Greymon', 0.0482), ('Plotmon', 0.0482), ('Guilmon', 0.0476)]
+smallest out centrality	[('Aegiochusmon', 0.00069), ('Jupitermon', 0.00069), ('Aegiochusmon: Blue', 0.00069), ('Aegiochusmon: Dark', 0.00069), ('Aegiochusmon: Green', 0.00069), ('Aegiochusmon: Holy', 0.00069), ('Aegisdramon', 0.00069), ('Rust Tyranomon', 0.00069), ('Ravmon', 0.00069), ('Ulforce V-dramon (X-Antibody)', 0.00069)]
+
+largest all centrality	[('Leomon', 0.0855), ('Numemon', 0.0848), ('Megadramon', 0.0813), ('Piccolomon', 0.0751), ('Garurumon', 0.0737), ('Greymon', 0.0724), ('Aero V-dramon', 0.0703), ('Scumon', 0.0703), ('Pumpmon', 0.0689), ('Were Garurumon', 0.0689)]
+smallest all centrality	[('Agumon: Burst Mode', 0.00069), ('Algomon (Baby I)', 0.00069), ('Ghosmon', 0.00069), ('Imperialdramon Dragon Mode', 0.00069), ('Venusmon', 0.00069), ('Arkadimon Super Ultimate', 0.00069), ('Armamon', 0.00069), ('Arresterdramon Superior Mode', 0.00069), ('Xros Up Arresterdramon (Sparrowmon)', 0.00069), ('Xros Up Arresterdramon (Blossomon)', 0.00069)]
+
+largest betweenness	[('Aero V-dramon', 0.0054), ('Omega Shoutmon', 0.0052), ('V-dramon', 0.0041), ('Apocalymon', 0.0037), ('Megadramon', 0.0035), ('Mephismon', 0.0034), ('Tonosama Gekomon', 0.003), ('Holy Angemon', 0.0029), ('Woodmon', 0.0029), ('Omegamon (X-Antibody)', 0.0028)]
+smallest betweenness	[('Blikmon', 0.0), ('Rook Chessmon (White)', 0.0), ('Bishop Chessmon (Black)', 0.0), ('Master V-dramon', 0.0), ('Belphemon Sleep Mode', 0.0), ('Shoutmon X4B', 0.0), ('Arkadimon Baby', 0.0), ('Black Mach Gaogamon', 0.0), ('Chaos Grimmon', 0.0), ('Star Wheel', 0.0)]
+
+largest closeness	[('Dukemon (X-Antibody)', 0.1784), ('Demon', 0.1701), ('Dukemon: Crimson Mode', 0.1654), ('Omegamon', 0.1648), ('Omegamon Alter-B', 0.1608), ('Susanoomon', 0.1605), ('Imperialdramon: Fighter Mode', 0.1593), ('Belphemon: Rage Mode', 0.1584), ('Alphamon', 0.1559), ('Medieval Dukemon', 0.1553)]
+smallest closeness	[('Algomon (Baby II)', 0.00069), ('Arkadimon Baby', 0.00069), ('Arresterdramon: Superior Mode (Brave Snatcher)', 0.00069), ('Atamadekachimon', 0.00069), ('Avenge Kidmon', 0.00069), ('Babydmon', 0.00069), ('Ballistamon', 0.00069), ('Snatchmon', 0.00069), ('Destromon', 0.00069), ('Bio Darkdramon', 0.00069)]
